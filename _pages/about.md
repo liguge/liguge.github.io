@@ -29,12 +29,7 @@ He serves as a reviewer for 31 international top journals and conferences, and w
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Awarded ACM SIGMOD China Doctoral Dissertation Award.
-- *2025.07*: &nbsp;🎉🎉 Awarded the 2025 Outstanding Doctoral Dissertation by the CCF Technical Committee on Information Systems.
-- *2025.02*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CCF-A]. 
-- *2024.06*: &nbsp;🎉🎉 We have one paper accepted by VLDB 2024 [CCF-A].
-- *2023.08*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2024 [CCF-A].
-- *2021.11*: &nbsp;🎉🎉 We have one paper accepted by ICDE 2022 [CCF-A].
+- *2025.09*: &nbsp;🎉🎉 
 
 # 📖 Educations
 - *2022.09 -  Present*, Vehicle Operation Engineering，Doctoral Candidate，Beijing Jiaotong University，Beijing, China.
@@ -72,7 +67,6 @@ He serves as a reviewer for 31 international top journals and conferences, and w
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-24-blue)](https://example.com/link_to_your_paper)     
     -  ~~[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~![Github stars](https://img.shields.io/github/stars/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis.svg)
     -  [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1109/ACCESS.2021.3064962)
+
 # 🎖 Honors and Awards
-- National Scholarship for Doctoral Students, 2022
-- CCF Information Systems Outstanding PhD Dissertation, 2025
-- ACM SIGMOD China Doctoral Dissertation Award, 2025
+
