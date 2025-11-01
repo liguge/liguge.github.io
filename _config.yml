@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhen Song"
-description              : "Associate Professor"
-repository               : "songzhen0210/songzhen0210.github.io"
+title                    : "Chao He（何超）"
+description              : #"Associate "
+repository               : "liguge/liguge.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
