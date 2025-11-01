@@ -20,9 +20,12 @@ redirect_from:
 
 
 Chao He（何超）, Probationary Member of the Communist Party of China. Both his undergraduate and master's degrees are in computer-related majors. Currently, he is studying for a doctoral degree in Vehicle Operation Engineering (Traffic and Transportation Engineering) at the School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University. His research direction is Vehicle Safety, Detection and Control Technology (with a focus on interpretable bearing fault diagnosis).
+
 He has published a total of 16 papers, including 8 as the first author (including student first author). Among these papers, 4 are indexed in the CAS Tier 1 journals, 4 are highly cited papers, and 2 are ESI hot papers. He presides over 1 independent research project (for doctoral students) of the Frontier Research Center and has participated in 4 horizontal and vertical research projects.
+
 He won the Second Prize in the 2022 Liaoning Provincial College Students Computer Game Competition. His total citations on Google Scholar reach 725. He has received the National Scholarship for Doctoral Students in 2024 and 2025, the title of "Beijing Merit Student" in 2024, and was among the first batch of selected candidates for the 2024 Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (sponsored by the Chinese Society of Instrumentation). He also won the "Xiaojinchui Award" of the School of Mechanical and Electronic Engineering in 2024.
-He serves as a reviewer for 31 international top journals and conferences, and was honored as an Outstanding Reviewer of IEEE Transactions on Instrumentation and Measurement (IEEE TIM). He operates a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems (focused on fault diagnosis). The personal GitHub blog he established has high influence in the field of fault diagnosis. Personal blog: https://github.com/liguge
+
+He serves as a reviewer for 31 international top journals and conferences, and was honored as an Outstanding Reviewer of IEEE Transactions on Instrumentation and Measurement (IEEE TIM). He operates a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems (focused on fault diagnosis). The personal GitHub blog he established has high influence in the field of fault diagnosis. Personal blog: https://liguge.github.io/
 
 
 # 🔥 News
