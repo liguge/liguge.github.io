@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Chao He（何超）",
+    "email": "huantaihechao@163.com",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
+      "address": "Beijing Jiaotong University, No. 3 Shangyuancun, Haidian District, Beijing",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-4666-377X"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": ""
       }
     ]
   },
