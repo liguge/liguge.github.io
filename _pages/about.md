@@ -33,10 +33,9 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 - *2021.11*: &nbsp;🎉🎉 We have one paper accepted by ICDE 2022 [CCF-A].
 
 # 📖 Educations
-- *2019.09 - 2025.01*, Computer Science and Technology, Doctoral Degree, Northeastern University, Shenyang, China.
-- *2022.11 - 2023.01*, Computer Science , Joint Training Program, Aalborg University, Aalborg, Denmark.
-- *2017.09 - 2019.06*, Computer Software and Theory, Master's Degree, Northeastern University, Shenyang, China.
-- *2013.09 - 2017.06*, Computer Science and Technology, Bachelor's Degree, Northeastern University, Shenyang, China.
+- *2022.09 -  Present*, Vehicle Operation Engineering，Doctoral Candidate，Beijing Jiaotong University，Beijing, China.
+- *2019.09 - 2022.06*, Computer Application Technology, Master's Degree, Liaoning University, Shenyang, China.
+- *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
