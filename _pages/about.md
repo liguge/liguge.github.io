@@ -48,9 +48,17 @@ Personal blog: [https://liguge.github.io](https://liguge.github.io)
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉
-
-- 
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
 
 
 # 📝 Publications 
