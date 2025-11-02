@@ -23,7 +23,7 @@ Personal blog: [https://liguge.github.io](https://liguge.github.io)**
 
 # ❤️ Academic Homepage <span class='anchor' id='-academic-homepage'></span>
 
-### [Github](https://github.com/liguge) 
+### [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)
 
 ### [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
 
