@@ -83,7 +83,7 @@ Personal blog: [https://liguge.github.io](https://liguge.github.io)**
 
        
 
-# 📖 Educations
+# 📖 Educations<span class="anchor" id="-educations"></span>
 
 - *2022.09 -  Present*, Vehicle Operation Engineering，Doctoral Candidate，Beijing Jiaotong University，Beijing, China. Supervisor: **Hongmei Shi**
 
@@ -91,7 +91,7 @@ Personal blog: [https://liguge.github.io](https://liguge.github.io)**
 
 - *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
