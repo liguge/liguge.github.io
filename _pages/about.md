@@ -32,7 +32,7 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 
 # ❤️ Academic Homepage <span class='anchor' id='-academic-homepage'></span>
 
-​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)[Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [谷歌学术镜像](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
+​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge); [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [谷歌学术镜像](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
 
 
 
@@ -57,7 +57,6 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Systems</div><img src='images/jmsy1554.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 - [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-124-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
@@ -100,8 +99,6 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 ------
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/measur110242.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-241-blue)](https://example.com/link_to_your_paper)   
@@ -134,3 +131,12 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
+
+# 🤝合著文章
+
+- Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.（中科院大类一区）
+- Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880.（中科院大类二区）
+- Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491.（中科院大类一区)
+- Zhang W, Shi H, **He C**. Intelligent Detection of Freight Car Bolt Fault Based on Improved YOLOv3[C]//2023 Global Reliability and Prognostics and Health Management Conference(PHM-Hangzhou). IEEE, 2023: 1-4.（EI）
+- Wei H, **He C**, Liu S. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025. （中科院大类二区）
+- Li R, Shi H, **He C**. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025. (中科院大类二区）
