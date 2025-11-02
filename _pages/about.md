@@ -33,32 +33,27 @@ Personal blog: [https://liguge.github.io](https://liguge.github.io)
 
 # ❤️ Academic Homepage <span class='anchor' id='-academic-homepage'></span>
 
-### [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)
-
-### [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
-
-### [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
-
-### [谷歌学术镜像](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
-
-### [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022)
-
-### [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
+[Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)[Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en);[ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [谷歌学术镜像](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905);
 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
-- *2025.09*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CAS Tier 1].
+
+
+- *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as ESI Highly Cited Paper.
+- *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as ESI Highly Cited Paper.
+- *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation).
+- *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as ESI Highly Cited & ESI Hot Paper.
+- *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as ESI Highly Cited & ESI Hot Paper.
+- *2024.04*: &nbsp;🎉🎉 We have one paper accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics) [CAS Tier 1].
+- *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) [CAS Tier 1].
+- *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing) [CAS Tier 1].
+- *2023.08*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Manufacturing Systems](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems) [CAS Tier 1].
+- *2021.10*: &nbsp;🎉🎉 We have one paper accepted by [Measurement](https://www.sciencedirect.com/journal/measurement) [CAS Tier 2].
+
+
+
+
 
 
 # 📝 Publications 
