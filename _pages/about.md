@@ -26,7 +26,8 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 # 🚀 Research Direction <span class='anchor' id='-research-direction'></span>
 
 - Interpretable Fault Diagnosis
-- 
+- Anomaly Detection in Non-Ideal Industrial Scenarios
+- Gait Recognition
 
 
 # ❤️ Academic Homepage <span class='anchor' id='-academic-homepage'></span>
@@ -38,11 +39,11 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 # 🔥 News
 
 
-- *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as ESI Highly Cited Paper.
-- *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as ESI Highly Cited Paper.
+- *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as **ESI Highly Cited Paper**.
+- *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as **ESI Highly Cited Paper**.
 - *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation).
-- *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as ESI Highly Cited & ESI Hot Paper.
-- *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as ESI Highly Cited & ESI Hot Paper.
+- *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as **ESI Highly Cited & ESI Hot Paper**.
+- *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as **ESI Highly Cited & ESI Hot Paper**.
 - *2024.04*: &nbsp;🎉🎉 We have one paper accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics) [CAS Tier 1].
 - *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) [CAS Tier 1].
 - *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing) [CAS Tier 1].
@@ -55,25 +56,27 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Systems</div><img src='images/jmsy1554.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- (ESI hot)[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-124-blue)](https://example.com/link_to_your_paper)
+- [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-124-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
+</div>
+</div>
 
 - [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-57-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/IDSN_public)  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  (Coming soon!)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ymssp.2023.110846)
 
-- (ESI hot)[Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-73-blue)](https://example.com/link_to_your_paper)
+- [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-73-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
 
-- (ESI highly cited)[Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-80-blue)](https://example.com/link_to_your_paper)
+- [Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-80-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)  [![Paper](https://img.shields.io/badge/Paper_2-ARXIV-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.48550/arXiv.2406.11917)
@@ -81,10 +84,11 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 - Under Review
    - https://github.com/liguge/PIFCapsule
 
-- (ESI highly cited)[Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-241-blue)](https://example.com/link_to_your_paper)   
+- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-241-blue)](https://example.com/link_to_your_paper)   
+   
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
-
+   
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/DLWCB)  ![Github stars](https://img.shields.io/github/stars/liguge/DLWCB.svg)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
