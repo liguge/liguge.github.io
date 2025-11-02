@@ -20,8 +20,7 @@ redirect_from:
 
 
 Chao He (何超，北京交通大学). Student Member of the Chinese Society of Instrumentation; Student Member of the China Computer Federation. I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). Among these papers, 4 are indexed in the CAS Tier 1 journals, 4 are ESI highly cited papers, and 2 are ESI hot papers. I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I operate a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems (《先进机电系统测控与运维前沿》). 
-<img src="images/qrcode_for_gh_3012974a0e76_258.jpg" alt="微信公众号二维码" width="250" style="margin-top: 15px; margin-bottom: 15px;">
-
+<img src="https://github.com/liguge/liguge.github.io/blob/master/images/qrcode_for_gh_3012974a0e76_258.jpg" alt="先进机电系统测控与运维前沿" width="250" style="margin-top: 15px; margin-bottom: 15px;">
 
 
 
