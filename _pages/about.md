@@ -132,7 +132,7 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
 
-# 🤝合著文章
+# 🤝Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
 1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.（中科院大类一区）
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491.（中科院大类一区)
