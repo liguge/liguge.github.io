@@ -30,7 +30,7 @@ author:
   location         : "Beijing"
   employer         : "Beijing Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "huantaihechao@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
