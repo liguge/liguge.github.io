@@ -23,7 +23,7 @@ repository               : "liguge/liguge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/20251029194521_219_209.jpg"
+  avatar           : "20251029194521_219_209.jpg"
   name             : "Chao He（何超）"
   pronouns         : # example: "she/her"  
   bio              : "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
