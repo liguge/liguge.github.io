@@ -141,6 +141,3 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 5. Li R, Shi H, **He C**. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025. (中科院大类二区）
 6. Zhang W, Shi H, **He C**. Intelligent Detection of Freight Car Bolt Fault Based on Improved YOLOv3[C]//2023 Global Reliability and Prognostics and Health Management Conference(PHM-Hangzhou). IEEE, 2023: 1-4.（EI）
 
-# :part_alternation_mark:WeChat Official Account
-
-<img src="https://github.com/liguge/liguge.github.io/blob/master/images/wechat.png" alt="先进机电系统测控与运维前沿" width="250" style="margin-top: 15px; margin-bottom: 15px;">
