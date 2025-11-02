@@ -66,6 +66,14 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/jmsy1554.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml). **Zhen Song**, Yu Gu, Tianyi Li, Yushuai Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu. **SIGMOD 2025**. <span style="color: red;">[CCF-A]</span>.
+</div>
+</div>
+
+
 - [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-57-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/IDSN_public)  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  (Coming soon!)
@@ -85,7 +93,7 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
    - https://github.com/liguge/PIFCapsule
 
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-241-blue)](https://example.com/link_to_your_paper)   
-   
+  
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
    
