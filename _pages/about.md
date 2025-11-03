@@ -105,14 +105,25 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
-</div>
-</div>
+  </div>
+  </div>
+
+------
+
+
+
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/DLWCB)  ![Github stars](https://img.shields.io/github/stars/liguge/DLWCB.svg)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
 
+------
+
+
+
+
 - ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-24-blue)](https://example.com/link_to_your_paper)     
+
     -  ~~[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~![Github stars](https://img.shields.io/github/stars/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis.svg)
 
     -  [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1109/ACCESS.2021.3064962)
@@ -129,19 +140,16 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
-
 - Beijing Merit Student, 2024
-
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
 
-  # :school:Social Affiliations<span class="anchor" id="-Social-affiliations"></span>
+# :school:Social Affiliations<span class="anchor" id="-Social-affiliations"></span>
 
-  - Student Member of the Chinese Society of Instrumentation
-  - Student Member of the China Computer Federation
-  - Technical Committee Member, IEEE_ICAIE 2025
-  - Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
-  - Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025 (2025 IEEE International Conference on Advanced Intelligent Engineering), JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
-  - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
+- Student Member of the Chinese Society of Instrumentation
+- Student Member of the China Computer Federation
+- Technical Committee Member, IEEE_ICAIE 2025
+- Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
+- Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 
 # 🤝Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
