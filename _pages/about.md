@@ -108,10 +108,6 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
   </div>
   </div>
 
-------
-
-
-
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/DLWCB)  ![Github stars](https://img.shields.io/github/stars/liguge/DLWCB.svg)
