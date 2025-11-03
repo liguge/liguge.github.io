@@ -2,6 +2,13 @@
 
 <a href="/sitemap/">Sitemap</a>
 
+<!-- 不蒜子浏览量统计（放在其他脚本前，确保优先加载） -->
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p class="page__views" style="margin-top: 10px; color: #666; font-size: 0.9em;">
+  本站总访问量: <span id="busuanzi_value_site_pv"></span> 次 | 
+  本页访问量: <span id="busuanzi_value_page_pv"></span> 次
+</p>
+
 <!-- Support for MatJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
@@ -16,10 +23,4 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- 不蒜子浏览量统计 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p class="page__views">
-  本站总访问量: <span id="busuanzi_value_site_pv"></span> 次 | 
-  本页访问量: <span id="busuanzi_value_page_pv"></span> 次
-</p>
 <!-- end custom footer snippets -->
