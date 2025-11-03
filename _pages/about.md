@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超，北京交通大学). Student Member of the Chinese Society of Instrumentation; Student Member of the China Computer Federation. I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). Among these papers, 4 are indexed in the CAS Tier 1 journals, 4 are ESI highly cited papers, and 2 are ESI hot papers. I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I operate a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems (《先进机电系统测控与运维前沿》). 
+Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I operate a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 
 
@@ -129,15 +129,24 @@ Chao He (何超，北京交通大学). Student Member of the Chinese Society of 
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
+
 - Beijing Merit Student, 2024
+
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
+
+  # :school:Social Affiliations<span class="anchor" id="-Social-affiliations"></span>
+
+  - Student Member of the Chinese Society of Instrumentation
+  - Student Member of the China Computer Federation
+  - Technical Committee Member, IEEE_ICAIE 2025
+  - Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
+  - Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025 (2025 IEEE International Conference on Advanced Intelligent Engineering), JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
+  - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 
 # 🤝Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
-1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.（中科院大类一区）
-2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491.（中科院大类一区)
-3. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880.（中科院大类二区）
-4. Wei H, **He C**, Liu S. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025. （中科院大类二区）
-5. Li R, Shi H, **He C**. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025. (中科院大类二区）
-6. Zhang W, Shi H, **He C**. Intelligent Detection of Freight Car Bolt Fault Based on Improved YOLOv3[C]//2023 Global Reliability and Prognostics and Health Management Conference(PHM-Hangzhou). IEEE, 2023: 1-4.（EI）
-
+1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.<span style="color: red;">[CAS Tier 1]</span>
+2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[CAS Tier 1]</span>
+3. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880. <span style="color: red;">[CAS Tier 2]</span>
+4. Wei H, **He C**, Liu S. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
+5. Li R, Shi H, **He C**. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
