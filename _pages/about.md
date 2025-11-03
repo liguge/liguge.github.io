@@ -105,8 +105,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
-  </div>
-  </div>
+</div>
+</div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -139,7 +139,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
 
-# :school:Social Affiliations<span class="anchor" id="-Social-affiliations"></span>
+# :school:Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
 - Student Member of the Chinese Society of Instrumentation
 - Student Member of the China Computer Federation
