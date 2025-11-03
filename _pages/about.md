@@ -44,11 +44,11 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation).
 - *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
 - *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
-- *2024.04*: &nbsp;🎉🎉 We have one paper accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics) <span style="color: red;">[CAS Tier 1]</span>.
-- *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) <span style="color: red;">[CAS Tier 1]</span>.
-- *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing) <span style="color: red;">[CAS Tier 1]</span>.
-- *2023.08*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Manufacturing Systems](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems)<span style="color: red;">[CAS Tier 1]</span>.
-- *2021.10*: &nbsp;🎉🎉 We have one paper accepted by [Measurement](https://www.sciencedirect.com/journal/measurement) <span style="color: red;">[CAS Tier 2]</span>.
+- *2024.04*: &nbsp;🎉🎉 We have one paper accepted by [Advanced Engineering Informatics](https://doi.org/10.1016/j.aei.2024.102568) <span style="color: red;">[CAS Tier 1]</span>.
+- *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.111499) <span style="color: red;">[CAS Tier 1]</span>.
+- *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://doi.org/10.1016/j.ymssp.2023.110846) <span style="color: red;">[CAS Tier 1]</span>.
+- *2023.08*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2023.08.014)<span style="color: red;">[CAS Tier 1]</span>.
+- *2021.10*: &nbsp;🎉🎉 We have one paper accepted by [Measurement](https://doi.org/10.1016/j.measurement.2021.110242) <span style="color: red;">[CAS Tier 2]</span>.
 
 
 
