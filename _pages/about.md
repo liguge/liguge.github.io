@@ -40,6 +40,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
+- *2025.05:* 🎉🎉 We have released the [Awesome-large-language-model-for-Prognostics-and-health-management](https://bgithub.xyz/liguge/Awesome-large-language-model-for-Prognostics-and-health-management) that collects articles on the application of Large Language Models (LLMs) in PHM.
 - *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 - *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation).
 - *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
@@ -48,6 +49,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.111499) <span style="color: red;">[CAS Tier 1]</span>.
 - *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://doi.org/10.1016/j.ymssp.2023.110846) <span style="color: red;">[CAS Tier 1]</span>.
 - *2023.08*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2023.08.014)<span style="color: red;">[CAS Tier 1]</span>.
+- *2022.06:* 🎉🎉  We have released the [Journals-of-Prognostics-and-Health-Management](https://bgithub.xyz/liguge/Journals-of-Prognostics-and-Health-Management) that summarizes journals suitable for PHM-related submissions.
 - *2021.10*: &nbsp;🎉🎉 We have one paper accepted by [Measurement](https://doi.org/10.1016/j.measurement.2021.110242) <span style="color: red;">[CAS Tier 2]</span>.
 
 
