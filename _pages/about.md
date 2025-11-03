@@ -57,17 +57,18 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Systems</div><img src='images/jmsy1554.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-124-blue)](https://example.com/link_to_your_paper)
+- [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)
+
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-57-blue)](https://example.com/link_to_your_paper)
+- [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)
+
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/IDSN_public)  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  (Coming soon!)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ymssp.2023.110846)
@@ -76,7 +77,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-73-blue)](https://example.com/link_to_your_paper)
+- [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)
+
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
@@ -85,7 +87,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-80-blue)](https://example.com/link_to_your_paper)
+- [Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)
+
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)  [![Paper](https://img.shields.io/badge/Paper_2-ARXIV-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.48550/arXiv.2406.11917)
@@ -98,10 +101,10 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 ------
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/measur110242.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-241-blue)](https://example.com/link_to_your_paper)   
+- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)
+
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
@@ -118,7 +121,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 
-- ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-24-blue)](https://example.com/link_to_your_paper)     
+- ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ 
 
     -  ~~[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~![Github stars](https://img.shields.io/github/stars/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis.svg)
 
