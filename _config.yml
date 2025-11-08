@@ -30,9 +30,7 @@ author:
   location         : "Beijing"
   employer         : "Beijing Jiaotong University"
   uri              : # URL
-  email            : 
-    - "huantaihechao@163.com" 
-    - "chaohe@bjtu.edu.cn"
+  email            : "huantaihechao@163.com; chaohe@bjtu.edu.cn" 
   
 
   # Academic websites
