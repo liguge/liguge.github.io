@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). I was selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). I was selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 
 
@@ -42,7 +42,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 - *2025.05:* 🎉🎉 We have released the [Awesome-large-language-model-for-Prognostics-and-health-management](https://github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management) that collects articles on the application of Large Language Models (LLMs) in PHM.
 - *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
-- *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (The Chinese Society of Instrumentation).
+- *2024.12*: &nbsp;🎉🎉 Selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society).
 - *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
 - *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
 - *2024.04*: &nbsp;🎉🎉 We have one paper accepted by [Advanced Engineering Informatics](https://doi.org/10.1016/j.aei.2024.102568) <span style="color: red;">[CAS Tier 1]</span>.
@@ -93,7 +93,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
-   - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)  [![Paper](https://img.shields.io/badge/Paper_2-ARXIV-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.48550/arXiv.2406.11917)
+   - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568) 
 </div>
 </div>
 
@@ -146,7 +146,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # :school:Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
-- Student Member of the Chinese Society of Instrumentation
+- Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
 - Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
