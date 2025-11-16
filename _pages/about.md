@@ -142,7 +142,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
-- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
+- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society), 2024
 
 # :school:Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
