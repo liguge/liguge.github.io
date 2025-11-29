@@ -76,8 +76,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,8 +99,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,8 +122,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -145,8 +145,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 
 
@@ -174,8 +174,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       pages={110242},
       year={2022},
       publisher={Elsevier}}</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
