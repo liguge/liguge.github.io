@@ -21,9 +21,10 @@ redirect_from:
 Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). I was selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 31 international top journals and conferences. I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 
-
 ## Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 <!-- 论文卡片1 -->
 <div class="paper-card">
   <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
@@ -56,52 +57,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
     <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars">
   </div>
 </div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Mechanical Systems and Signal Processing</div>
-      <img src='images/ymssp110846.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    <!-- 论文卡片1 -->
-    <div class="paper-card">
-      <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
-      <span class="paper-journal">Journal of Manufacturing Systems, 2023</span>
-      
-      <!-- 按钮/交互元素行容器（用flex实现同行排列） -->
-      <div class="paper-actions-row">
-        <!-- 摘要折叠 -->
-        <details class="paper-abstract">
-          <summary>Abstract</summary>
-          <p>Your abstract content here...（你的摘要内容）</p>
-        </details>
-        
-        <!-- DOI链接 -->
-        <a href="https://doi.org/10.1016/j.jmsy.2023.08.014" target="_blank" class="paper-btn">DOI</a>
-        
-        <!-- BibTeX折叠 -->
-        <details class="paper-bibtex">
-          <summary class="paper-btn">BibTeX</summary>
-          <pre>@article{li2023physics,
-  title={Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings},
-  author={Li, Guge and others},
-  journal={Journal of Manufacturing Systems},
-  year={2023},
-  publisher={Elsevier}
-}</pre>
-        </details>
-        
-        <!-- Code链接 -->
-        <a href="https://github.com/liguge/EWSNet" class="paper-btn" target="_blank">Code</a>
-        
-        <!-- Stars图标 -->
-        <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars">
-      </div>
-    </div>
-  </div>
+</div>
 </div>
 
 
