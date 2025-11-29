@@ -67,57 +67,17 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
-      <div style="position: relative; margin: 0.5rem 0;">
-       <button onclick="copyBibtex(this)" style="position: absolute; top: 5px; right: 5px; padding: 3px 8px; font-size: 12px; cursor: pointer; border: 1px solid #ddd; border-radius: 3px; background: #f5f5f5; color: #333;">复制</button>
-       <pre style="margin: 0; padding: 10px; background: #f6f8fa; border-radius: 4px; overflow-x: auto; font-size: 0.8rem;">@article{he2023idsn,
-title={IDSN: A one-stage interpretable and differentiable STFT domain adaptation network for traction motor of high-speed trains cross-machine diagnosis},
-author={He, Chao and Shi, Hongmei and Li, Jianbo},
-journal={Mechanical Systems and Signal Processing},
-volume={205},
-pages={110846},
-year={2023},
-publisher={Elsevier}
-}</pre>
-     </div>
+      <pre>@article{he2023physics,
+      title={Physics-informed interpretable wavelet weight initialization and balanced dynamic adaptive threshold for intelligent fault diagnosis of rolling bearings},
+      author={He, Chao and Shi, Hongmei and Si, Jin and Li, Jianbo},
+      journal={Journal of Manufacturing Systems},
+      volume={70},
+      pages={579--592},
+      year={2023},
+      publisher={Elsevier}
+      }</pre>
 </div>
 </div>
-
-<script>
-// 兼容所有环境的复制函数（无需 clipboard API）
-function copyBibtex(btn) {
-  const pre = document.getElementById('bibtex-content');
-  const text = pre.textContent.trim();
-  
-  // 创建临时文本区域
-  const textarea = document.createElement('textarea');
-  textarea.value = text;
-  textarea.style.position = 'fixed';
-  textarea.style.opacity = '0';
-  document.body.appendChild(textarea);
-  
-  // 选中并复制
-  textarea.select();
-  textarea.setSelectionRange(0, text.length); // 兼容移动设备
-  const success = document.execCommand('copy');
-  
-  // 清理临时元素
-  document.body.removeChild(textarea);
-  
-  // 反馈结果
-  if (success) {
-    const originalText = btn.textContent;
-    btn.textContent = "✅ 已复制";
-    btn.style.background = "#e8f4f8";
-    setTimeout(() => {
-      btn.textContent = originalText;
-      btn.style.background = "#f5f5f5";
-    }, 2000);
-  } else {
-    btn.textContent = "❌ 复制失败";
-    setTimeout(() => btn.textContent = "复制", 2000);
-  }
-}
-</script>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
