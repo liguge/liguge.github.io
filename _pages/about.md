@@ -23,47 +23,41 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 ## Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Mechanical Systems and Signal Processing</div>
-      <img src='images/ymssp110846.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    <!-- 论文卡片1 -->
-    <div class="paper-card">
-      <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
-      <span class="paper-journal">Journal of Manufacturing Systems, 2023</span>
-
-      <!-- 摘要折叠（用details标签，无需JS） -->
-      <details class="paper-abstract" style="display: inline-block; margin-right: 10px;">
-        <summary>Abstract</summary>
-        <p>Your abstract content here...（你的摘要内容）</p>
-      </details>
-
-      <div class="paper-buttons" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
-        <!-- DOI链接 -->
-        <a href="https://doi.org/10.1016/j.jmsy.2023.08.014" target="_blank" class="paper-btn">DOI</a>
-
-        <!-- BibTeX折叠 -->
-        <details class="paper-bibtex" style="display: inline-block;">
-          <summary class="paper-btn">BibTeX</summary>
-          <pre>@article{li2023physics,
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<!-- 论文卡片1 -->
+<div class="paper-card">
+  <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
+  <span class="paper-journal">Journal of Manufacturing Systems, 2023</span>
+  
+  <!-- 摘要折叠（用details标签，无需JS） -->
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Your abstract content here...（你的摘要内容）</p>
+  </details>
+  
+  <div class="paper-buttons">
+    <!-- DOI链接 -->
+    <a href="https://doi.org/10.1016/j.jmsy.2023.08.014" target="_blank" class="paper-btn">DOI</a>
+    
+    <!-- BibTeX折叠 -->
+    <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{li2023physics,
   title={Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings},
   author={Li, Guge and others},
   journal={Journal of Manufacturing Systems},
   year={2023},
   publisher={Elsevier}
 }</pre>
-        </details>
-
-        <!-- 代码和Stars -->
-        <a href="https://github.com/liguge/EWSNet" class="paper-btn" target="_blank">Code</a>
-        <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars" style="height: 24px; vertical-align: middle;">
-      </div>
-    </div>
+    </details>
+    
+    <!-- 代码和Stars -->
+    <a href="https://github.com/liguge/EWSNet" class="paper-btn" target="_blank">Code</a>
+    <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars">
   </div>
+</div>
+</div>
 </div>
 
 
