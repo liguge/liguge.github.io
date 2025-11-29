@@ -24,7 +24,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 ## Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 <!-- 论文卡片1 -->
 <div class="paper-card">
   <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
@@ -32,7 +32,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
   
   <!-- 摘要折叠（用details标签，无需JS） -->
   <div class="action-row">
-  <details class="paper-bibtex">
+  <details class="paper-abstract">
     <summary>Abstract</summary>
     <p>Your abstract content here...（你的摘要内容）</p>
   </details>   
