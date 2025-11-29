@@ -94,14 +94,12 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)
 
    - <details class="paper-bibtex"><summary class="paper-btn">Abstract</summary>
-
-    <pre>Your abstract content here...
+     <pre>Your abstract content here...
     </pre>
 
    - <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
       <pre>@article{li2023physics,
-
     title={Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings},
     author={Li, Gugehhhhhh and others},
     journal={Journal of Manufacturing Systems},
