@@ -32,7 +32,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
   
   <!-- 摘要折叠（用details标签，无需JS） -->
   <div class="action-row">
-  <details class="paper-abstract">
+  <details>
     <summary>Abstract</summary>
     <p>Your abstract content here...（你的摘要内容）</p>
   </details>   
