@@ -22,6 +22,45 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 
+## Publications
+
+<!-- 论文卡片1 -->
+<div class="paper-card">
+  <h3 class="paper-title">Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings</h3>
+  <span class="paper-journal">Journal of Manufacturing Systems, 2023</span>
+  
+  <!-- 摘要折叠（用details标签，无需JS） -->
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Your abstract content here...（你的摘要内容）</p>
+  </details>
+  
+  <div class="paper-buttons">
+    <!-- DOI链接 -->
+    <a href="https://doi.org/10.1016/j.jmsy.2023.08.014" target="_blank" class="paper-btn">DOI</a>
+    
+    <!-- BibTeX折叠 -->
+    <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{li2023physics,
+  title={Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings},
+  author={Li, Guge and others},
+  journal={Journal of Manufacturing Systems},
+  year={2023},
+  publisher={Elsevier}
+}</pre>
+    </details>
+    
+    <!-- 代码和Stars -->
+    <a href="https://github.com/liguge/EWSNet" class="paper-btn" target="_blank">Code</a>
+    <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars">
+  </div>
+</div>
+
+
+
+
+
 
 # 🚀 Research Direction <span class='anchor' id='-research-direction'></span>
 
@@ -142,7 +181,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
-- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society), 2024
+- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
 
 # :school:Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
