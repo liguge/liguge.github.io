@@ -35,11 +35,9 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
     <summary>Abstract</summary>
     <p>Your abstract content here...（你的摘要内容）</p>
   </details>
-  
   <div class="paper-buttons">
     <!-- DOI链接 -->
     <a href="https://doi.org/10.1016/j.jmsy.2023.08.014" target="_blank" class="paper-btn">DOI</a>
-    
     <!-- BibTeX折叠 -->
     <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
