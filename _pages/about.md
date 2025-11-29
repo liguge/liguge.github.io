@@ -31,6 +31,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
   <span class="paper-journal">Journal of Manufacturing Systems, 2023</span>
   
   <!-- 摘要折叠（用details标签，无需JS） -->
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <details class="paper-abstract">
     <summary>Abstract</summary>
     <p>Your abstract content here...（你的摘要内容）</p>
@@ -53,6 +54,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
     <!-- 代码和Stars -->
     <a href="https://github.com/liguge/EWSNet" class="paper-btn" target="_blank">Code</a>
     <img src="https://img.shields.io/github/stars/liguge/EWSNet.svg" class="paper-stars">
+</div>
   </div>
 </div>
 </div>
