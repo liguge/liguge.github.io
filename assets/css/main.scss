@@ -111,6 +111,14 @@ h1:before, .anchor:before {
 }
 
 /* 论文卡片样式 */
+.paper-actions-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+  }
+
 .paper-card {
   max-width: 800px;
   margin: 1rem auto;
@@ -181,10 +189,4 @@ h1:before, .anchor:before {
   vertical-align: middle;
   margin-left: 0.5rem;
 }
-.paper-actions-row {
-    display: flex;
-    align-items: center; /* 垂直居中 */
-    gap: 8px; /* 元素间距 */
-    flex-wrap: wrap; /* 屏幕较小时自动换行（避免溢出） */
-    margin-top: 12px;
-  }
+
