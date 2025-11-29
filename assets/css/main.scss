@@ -181,3 +181,24 @@ h1:before, .anchor:before {
   vertical-align: middle;
   margin-left: 0.5rem;
 }
+
+.copy-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  padding: 0.3rem 0.8rem;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: #f5f5f5;
+}
+
+.copy-btn.copied {
+  background: #e8f4f8;
+  color: #0366d6;
+}
