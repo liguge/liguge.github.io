@@ -92,7 +92,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)
-   - <details class="paper-abstract">
+   - <details class="paper-bibtex">
     <summary class="paper-btn">Abstract</summary>
     <pre>Your abstract content here...</pre>
   </details> 
