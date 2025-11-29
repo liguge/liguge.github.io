@@ -63,8 +63,21 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
-</div>
-</div>
+   - <details class="paper-abstract"><summary>Abstract</summary><p>Intelligent fault diagnosis of rolling bearings using deep learning-based methods has made unprecedented progress. However, there is still little research on weight initialization and the threshold setting for noise reduction. An innovative deep triple-stream network called EWSNet is proposed, which presents a wavelet weight initialization method and a balanced dynamic adaptive threshold algorithm. Initially, an enhanced wavelet basis function is designed, in which a scale smoothing factor is defined to acquire more rational wavelet scales. Next, a plug-and-play wavelet weight initialization for deep neural networks is proposed, which utilizes physics-informed wavelet prior knowledge and showcases stronger applicability. Furthermore, a balanced dynamic adaptive threshold is established to enhance the noise-resistant robustness of the model. Finally, normalization activation mapping is devised to reveal the effectiveness of Z-score from a visual perspective rather than experimental results. The validity and reliability of EWSNet are demonstrated through four data sets under the conditions of constant and fluctuating speeds. Source code is available at: https://github.com/liguge/EWSNet.</p>
+
+   - <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{he2023physics,
+      title={Physics-informed interpretable wavelet weight initialization and balanced dynamic adaptive threshold for intelligent fault diagnosis of rolling bearings},
+      author={He, Chao and Shi, Hongmei and Si, Jin and Li, Jianbo},
+      journal={Journal of Manufacturing Systems},
+      volume={70},
+      pages={579--592},
+      year={2023},
+      publisher={Elsevier}
+      }</pre>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,8 +86,21 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/IDSN_public)  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  (Coming soon!)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ymssp.2023.110846)
-</div>
-</div>
+   - <details class="paper-abstract"><summary>Abstract</summary><p>A surge of transfer fault diagnosis techniques has been proposed to guarantee the safe operation of traction motor systems. However, existing efforts highly depend on the availability of fault data in source domain, which is rare in practice due to the regular maintenance. Fortunately, self-customized testbeds provide an opportunity to easily obtain fault data, assuming that the simulated data can be utilized to monitor the real-world traction motor systems via the cross-machine diagnosis method. Besides, current deep learning-based cross-machine fault diagnosis methods suffer from the poor physical interpretability and the troublesome hype-parameter selection. To tackle aforementioned issues, a one-stage Interpretable and Differentiable STFT cross-machine dual-driven adaptation Network (IDSN) is proposed. In IDSN, a new paradigm termed interpretable differentiable STFT layer is devised, where a derivable coefficient is introduced to adjust pivotal parameters of STFT such as window length by the gradient descent. Prominently, it is a plug-and-play module, which can be embedded into the arbitrary typical network without conflict. Besides, a novel adaptive trade-off coefficient is developed to tackle the weight matching of the domain discrepancy metric. Finally, to ensure the reliability and effectiveness of cross-machine diagnosis, a concise yet valid smoothed joint maximum mean discrepancy is proposed, which simultaneously promotes intra-class compactness and inter-class separability. The results of experiments confirm that the proposed IDSN outperforms the state of the art.</p>
+
+   - <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{he2023idsn,
+      title={IDSN: A one-stage interpretable and differentiable STFT domain adaptation network for traction motor of high-speed trains cross-machine diagnosis},
+      author={He, Chao and Shi, Hongmei and Li, Jianbo},
+      journal={Mechanical Systems and Signal Processing},
+      volume={205},
+      pages={110846},
+      year={2023},
+      publisher={Elsevier}
+      }</pre>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,8 +109,21 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
-</div>
-</div>
+   - <details class="paper-abstract"><summary>Abstract</summary><p>While transfer learning-based intelligent diagnosis has achieved significant breakthroughs, the performance of existing well-known methods still needs urgent improvement, given the increasingly significant distribution discrepancy between source and target domain data from different machines. To tackle this issue, rather than designing domain discrepancy statistical metrics or elaborate network architecture, we delve deep into the interaction and mutual promotion between signal processing and domain adaptation. Inspired by wavelet technology and weight initialization, an end-to-end, succinct, and high-performance physics-informed wavelet domain adaptation network (WIDAN) has been subtly devised, which integrates interpretable wavelet knowledge into the dual-stream convolutional layer with independent weights to cope with extremely challenging cross-machine diagnostic tasks. Specifically, the first-layer weights of a CNN are updated with optimized and informative Laplace or Morlet weights. This approach alleviates troublesome parameter selection, where scaling and translation factors with specific physical interpretations are constrained by the convolution kernel parameters. Additionally, a smooth-assisted scaling factor is introduced to ensure consistency with neural network weights. Furthermore, a dual-stream bottleneck layer is designed to learn reasonable weights to pre-transform different domain data into a uniform common space. This can promote WIDAN to extract domain-invariant features. Holistic evaluations confirm that WIDAN outperforms state-of-the-art models across multiple tasks, indicating that a wide first-layer kernel with optimized wavelet weight initialization can enhance domain transferability, thus validly fostering cross-machine transfer diagnosis.</p>
+
+   - <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{he2024interpretable,
+      title={Interpretable physics-informed domain adaptation paradigm for cross-machine transfer diagnosis},
+      author={He, Chao and Shi, Hongmei and Liu, Xiaorong and Li, Jianbo},
+      journal={Knowledge-Based Systems},
+      volume={288},
+      pages={111499},
+      year={2024},
+      publisher={Elsevier}
+      }</pre>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,19 +137,17 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
    - <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
       <pre>@article{he2024interpretable,
-
-    title={Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations},
-    author={He, Chao and Shi, Hongmei and Li, Ruixin and Li, Jianbo and Yu, Zujun},
-    journal={Advanced Engineering Informatics},
-    volume={62},
-    pages={102568},
-    year={2024},
-    publisher={Elsevier}
+      title={Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations},
+      author={He, Chao and Shi, Hongmei and Li, Ruixin and Li, Jianbo and Yu, Zujun},
+      journal={Advanced Engineering Informatics},
+      volume={62},
+      pages={102568},
+      year={2024},
+      publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
-------
 
 
 - Under Review
@@ -125,8 +162,20 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
-</div>
-</div>
+   - <details class="paper-abstract"><summary>Abstract</summary><p>Aiming at the application of deep learning in fault diagnosis, mechanical rotating equipment components are prone to failure under complex working environment, and the industrial big data suffers from limited labeled samples, different working conditions and noises. In order to explore the problems above, a small sample fault diagnosis method is proposed based on dual path convolution with attention mechanism (DCA) and Bidirectional Gated Recurrent Unit (DCA-BiGRU), whose performance can be effectively mined by the latest regularization training strategies. BiGRU is utilized to realize spatiotemporal feature fusion, where vibration signal fused features with attention weight are extracted by DCA. Besides, global average pooling (GAP) is applied to dimension reduction and fault diagnosis. It is indicated that DCA-BiGRU has exceptional capacities of generalization and robustness by experiments, and can effectively carry out diagnosis under various complicated situations.</p>
+
+   - <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{zhang2022fault,
+      title={Fault diagnosis for small samples based on attention mechanism},
+      author={Zhang, Xin and He, Chao and Lu, Yanping and Chen, Biao and Zhu, Le and Zhang, Li},
+      journal={Measurement},
+      volume={187},
+      pages={110242},
+      year={2022},
+      publisher={Elsevier}}</pre>
+      </div>
+      </div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
