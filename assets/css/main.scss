@@ -181,3 +181,10 @@ h1:before, .anchor:before {
   vertical-align: middle;
   margin-left: 0.5rem;
 }
+.paper-actions-row {
+    display: flex;
+    align-items: center; /* 垂直居中 */
+    gap: 8px; /* 元素间距 */
+    flex-wrap: wrap; /* 屏幕较小时自动换行（避免溢出） */
+    margin-top: 12px;
+  }
