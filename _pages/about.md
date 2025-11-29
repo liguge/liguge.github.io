@@ -93,22 +93,23 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)
 
-   - <details class="paper-bibtex"><summary class="paper-btn">Abstract</summary>
-     <pre>Your abstract content here...
-    </pre>
+   - <details class="paper-bibtex"><summary class="paper-btn">Abstract</summary><pre>The service conditions of wheelset bearings has a direct impact on the safe operation of railway heavy haul freight trains as the key components. However, speed fluctuation of the trains and few fault samples are the two main problems that restrict the accuracy of bearing fault diagnosis. Therefore, a cross-machine transfer diagnosis (pyDSN) network coupled with interpretable modulated differentiable short-time Fourier transform (STFT) and physics-informed balanced spectrum quality metric is proposed to learn domain-invariant and discriminative features under time-varying speeds. Firstly, due to insufficiency in extracting extract frequency components of time-varying speed signals using fixed windows, a modulated differentiable STFT (MDSTFT) that is interpretable with STFT-informed theoretical support, is proposed to extract the robust time–frequency spectrum (TFS). During training process, multiple windows with different lengths dynamically change. Also, in addition to the classification metric and domain discrepancy metric, we creatively introduce a third kind of metric, referred to as the physics-informed metric, to enhance transferable TFS. A physics-informed balanced spectrum quality (BSQ) regularization loss is devised to guide an optimization direction for MDSTFT and model. With it, not only can model acquire high-quality TFS, but also a physics-restricted domain adaptation network can be also acquired, making it learn real-world physics knowledge, ultimately diminish the domain discrepancy across different datasets. The experiment is conducted in the scenario of migrating from the laboratory datasets to the freight train dataset, indicating that the hybrid-driven pyDSN outperforms existing methods and has practical value. Partial code is availble at https://github.com/liguge/PyDSN.</pre>
 
    - <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
-      <pre>@article{li2023physics,
-    title={Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings},
-    author={Li, Gugehhhhhh and others},
-    journal={Journal of Manufacturing Systems},
-    year={2023},
+      <pre>@article{he2024interpretable,
+    title={Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations},
+    author={He, Chao and Shi, Hongmei and Li, Ruixin and Li, Jianbo and Yu, Zujun},
+    journal={Advanced Engineering Informatics},
+    volume={62},
+    pages={102568},
+    year={2024},
     publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
-      </div>
+</div>
+</div>
+
+------
 
 
 - Under Review
