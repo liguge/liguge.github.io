@@ -84,11 +84,28 @@ publisher={Elsevier}
 </div>
 
 <script>
-// 简洁的 BibTeX 复制函数
+// 兼容所有环境的复制函数（无需 clipboard API）
 function copyBibtex(btn) {
-  const pre = btn.nextElementSibling;
+  const pre = document.getElementById('bibtex-content');
   const text = pre.textContent.trim();
-  navigator.clipboard.writeText(text).then(() => {
+  
+  // 创建临时文本区域
+  const textarea = document.createElement('textarea');
+  textarea.value = text;
+  textarea.style.position = 'fixed';
+  textarea.style.opacity = '0';
+  document.body.appendChild(textarea);
+  
+  // 选中并复制
+  textarea.select();
+  textarea.setSelectionRange(0, text.length); // 兼容移动设备
+  const success = document.execCommand('copy');
+  
+  // 清理临时元素
+  document.body.removeChild(textarea);
+  
+  // 反馈结果
+  if (success) {
     const originalText = btn.textContent;
     btn.textContent = "✅ 已复制";
     btn.style.background = "#e8f4f8";
@@ -96,10 +113,10 @@ function copyBibtex(btn) {
       btn.textContent = originalText;
       btn.style.background = "#f5f5f5";
     }, 2000);
-  }).catch(() => {
+  } else {
     btn.textContent = "❌ 复制失败";
     setTimeout(() => btn.textContent = "复制", 2000);
-  });
+  }
 }
 </script>
 
