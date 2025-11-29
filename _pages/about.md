@@ -79,7 +79,6 @@ year={2023},
 publisher={Elsevier}
 }</pre>
      </div>
-   </details>
 </div>
 </div>
 
