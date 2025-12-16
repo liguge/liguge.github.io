@@ -228,3 +228,4 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 3. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880. <span style="color: red;">[CAS Tier 2]</span>
 4. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 5. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
+6. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
