@@ -37,7 +37,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🔥 News
 
-- *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially surpassed <span style="color: red;">**1,000**</span>followers!.
+- *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially surpassed <span style="color: red;">**1,000**</span> followers!.
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 - *2025.05:* 🎉🎉 We have released the [Awesome-large-language-model-for-Prognostics-and-health-management](https://github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management) that collects articles on the application of Large Language Models (LLMs) in PHM.
 - *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
