@@ -218,14 +218,15 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 31 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, and Cyber-Physical Systems.*
+- Reviewer for 32 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems.*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 
 # 🤝Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
 1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.<span style="color: red;">[CAS Tier 1]</span>
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[CAS Tier 1]</span>
-3. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880. <span style="color: red;">[CAS Tier 2]</span>
-4. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
-5. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
-6. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
+3. Wang M, Li M, He C. CCDM: Causality-Guided Contourlet Diffusion Models for Contour-Preserving Image Restoration in Indoor Work Sites[J]. Expert Systems with Applications, 2025, 305: 130912. <span style="color: red;">[CAS Tier 1]</span>
+4. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880. <span style="color: red;">[CAS Tier 2]</span>
+5. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
+6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
+7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
