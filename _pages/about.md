@@ -217,7 +217,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
 
-# :school:Social Affiliations<span class="anchor" id="-social-affiliations"></span>
+# :school: Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
@@ -225,7 +225,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - Reviewer for 32 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems.*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 
-# 🤝Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
+# 🤝 Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
 1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.<span style="color: red;">[CAS Tier 1]</span>
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[CAS Tier 1]</span>
