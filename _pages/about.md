@@ -211,6 +211,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
+- Awarded the Excellence Award for successfully tackling the "Equipment Fault Prediction Based on Data Mining" task at the 2025 National Big Data and Computing Intelligence Challenge, 2025
+- IOP Trusted Reviewer, 2024
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
