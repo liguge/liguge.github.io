@@ -157,7 +157,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/jii101068.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)
 
@@ -182,7 +182,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 </div>
 </div>
 
-------
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/measur110242.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
