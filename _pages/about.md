@@ -157,7 +157,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)
 
@@ -170,14 +170,14 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
    - <details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
       <pre>@article{he2025pifcapsule,
-  title={Human prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration monitoring},
-  author={He, Chao and Shi, Hongmei and Liao, Jing-Xiao and Liu, Qiuhai and Li, Jianbo and Yu, Zujun},
-  journal={Journal of Industrial Information Integration},
-  volume={XX},
-  pages={101068},
-  year={2025},
-  publisher={Elsevier}
-  doi={10.1016/j.jii.2026.101068}
+      title={Human prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration monitoring},
+      author={He, Chao and Shi, Hongmei and Liao, Jing-Xiao and Liu, Qiuhai and Li, Jianbo and Yu, Zujun},
+      journal={Journal of Industrial Information Integration},
+      volume={XX},
+      pages={101068},
+      year={2025},
+      publisher={Elsevier}
+      doi={10.1016/j.jii.2026.101068}
       }</pre>
 </div>
 </div>
