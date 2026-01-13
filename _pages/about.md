@@ -38,6 +38,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)<span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
 - *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
@@ -156,8 +157,30 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 
 
-- Under Review
-   - https://github.com/liguge/PIFCapsule
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)
+
+   - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PIFCapsule)  ![Github stars](https://img.shields.io/github/stars/liguge/PIFCapsule.svg)  
+   - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jii.2026.101068)
+   - [![Pdf](https://img.shields.io/badge/Pdf-Free-pink.svg?logo=arXiv&logoColor=red)](https://liguge.github.io/assets/pdf/jii101068.pdf)
+
+   - <details class="paper-abstract"><summary>Abstract</summary><p>Rail transit vehicles endure large loads, high speeds, and harsh environment, leading to component failure. The first-layer interpretable paradigm (FLIP) embeds human prior knowledge into smart equipment, which is one of intelligent paradigms guided by customized manufacturing and embodied intelligence. It consists of first-layer interpretable modules, backbones, loss metrics. However, existing efforts rely on single-source information, an absence of interpretable backbones, an inability to feature fusion, thereby struggling with multi-excitation, coupled signals. To bridge this gap, a FLIP-based one-stage multi-view capsule fusion network (PIFCapsule) is proposed. Firstly, a signal processing prior-empowered first-layer interpretable module is devised to realize automatic parameter optimization and highlight the complementarity between multi-view features from different signal processing algorithms. Secondly, an interpretable capsule network serves as the backbone. To overcome the inefficiency and shortage of information fusion, an efficient attention fusion routing (AFR) is proposed to reduce the parameters (about 5.72 times) and the complexity (about 2.93 times) in contrast to the vanilla capsule-based network. In response to the lack of physics-based constraints during training, a noise threshold amplitude ratio (NTAR) is posed as a regularization, which enhances weak periodic transient pulses by suppressing learned noises. The effectiveness and reliability are verified through three real-world rail transit vehicle datasets: PIFCapsule outperforms the state-of-the-art by 6.77% in accuracy with only ten samples. Given the lightweight nature, it holds substantial promise to be deployed in intelligent edge devices. Code is available at https://github.com/liguge/PIFCapsule.</p>
+
+   - <details class="paper-bibtex">
+      <summary class="paper-btn">BibTeX</summary>
+      <pre>@article{he2025pifcapsule,
+  title={Human prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration monitoring},
+  author={He, Chao and Shi, Hongmei and Liao, Jing-Xiao and Liu, Qiuhai and Li, Jianbo and Yu, Zujun},
+  journal={Journal of Industrial Information Integration},
+  volume={XX},
+  pages={101068},
+  year={2025},
+  publisher={Elsevier}
+  doi={10.1016/j.jii.2026.101068}
+      }</pre>
+</div>
+</div>
 
 ------
 
