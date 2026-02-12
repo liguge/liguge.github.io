@@ -173,7 +173,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       title={Human prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration monitoring},
       author={He, Chao and Shi, Hongmei and Liao, Jing-Xiao and Liu, Qiuhai and Li, Jianbo and Yu, Zujun},
       journal={Journal of Industrial Information Integration},
-      volume={XX},
+      volume={51},
       pages={101068},
       year={2025},
       publisher={Elsevier}
