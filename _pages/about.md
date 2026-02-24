@@ -80,8 +80,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,13 +104,12 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)
-
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
@@ -128,8 +127,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,10 +151,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-      </div>
-      </div>
-
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/jii101068.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -179,8 +176,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       publisher={Elsevier}
       doi={10.1016/j.jii.2026.101068}
       }</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 
 
@@ -205,8 +202,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       pages={110242},
       year={2022},
       publisher={Elsevier}}</pre>
-      </div>
-      </div>
+</div>
+</div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -228,7 +225,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 📖 Educations<span class="anchor" id="-educations"></span>
 
-- *2022.09 -  Present*, Vehicle Operation Engineering，Doctoral Candidate，Beijing Jiaotong University，Beijing, China. Supervisor: **Hongmei Shi**
+- *2022.09 -  Present*, Vehicle Operation Engineering, Doctoral Candidate, Beijing Jiaotong University, Beijing, China. Supervisor: **Hongmei Shi**
 
 - *2019.09 - 2022.06*, Computer Application Technology, Master's Degree, Liaoning University, Shenyang, China. Supervisor: **Li Zhang**
 
