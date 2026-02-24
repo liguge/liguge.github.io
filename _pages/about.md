@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). I was selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 16 papers, including 8 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 32 international top journals and conferences. I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degree in Vehicle Operation Engineering at Beijing Jiaotong University, under the supervision of Professor Hongmei Shi ([史红梅](https://faculty.bjtu.edu.cn/5972/)) in the research group group led by Professor Zujun Yu ([余祖俊](https://faculty.bjtu.edu.cn/300)). I was selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society). My research direction is Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have published a total of 21 papers, including 9 as the first author (including student first author). I preside over 1 independent research project (for doctoral students) of the Frontier Research Center and have participated in 4 horizontal and vertical research projects. Also, I serve as a reviewer for 32 international top journals and conferences. I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 
 
@@ -80,8 +80,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,8 +104,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -128,8 +128,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,8 +152,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 
 
@@ -173,14 +173,14 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       title={Human prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration monitoring},
       author={He, Chao and Shi, Hongmei and Liao, Jing-Xiao and Liu, Qiuhai and Li, Jianbo and Yu, Zujun},
       journal={Journal of Industrial Information Integration},
-      volume={51},
+      volume={XX},
       pages={101068},
       year={2025},
       publisher={Elsevier}
       doi={10.1016/j.jii.2026.101068}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 
 
@@ -205,8 +205,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       pages={110242},
       year={2022},
       publisher={Elsevier}}</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -259,4 +259,4 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 5. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
-8. Wang Y, Li Y, **He C**. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026. <span style="color: red;">[CAS Tier 3]</span>
+8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026. <span style="color: red;">[CAS Tier 3]</span>
