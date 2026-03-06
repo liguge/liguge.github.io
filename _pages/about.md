@@ -232,12 +232,15 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
+
+- IOP Outstanding Reviewer Awards for Measurement Science and Technology (MST), 2025
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2025
 - Awarded the Excellence Award for successfully tackling the "Equipment Fault Prediction Based on Data Mining" task at the 2025 National Big Data and Computing Intelligence Challenge, 2025
 - IOP Trusted Reviewer, 2024
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
 - The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
+- 2020 China Business Federation Science and Technology Award National Business Science and Technology Progress Award "Key Technologies and Applications for Sub Health Identification of Industrial Equipment Systems"
 
 # :school: Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
@@ -246,14 +249,16 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - Technical Committee Member, IEEE_ICAIE 2025
 - Reviewer for 32 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems.*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
+- Guide editor of IEEE Reliability Association, CIS English official account
+- Editor of the special issue of Sound & Vibration: Fault Diagnosis and Prognostics in Complex Industrial Systems
 
 # 🤝 Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
 1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.<span style="color: red;">[CAS Tier 1]</span>
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[CAS Tier 1]</span>
 3. Wang M, Li M, He C. CCDM: Causality-Guided Contourlet Diffusion Models for Contour-Preserving Image Restoration in Indoor Work Sites[J]. Expert Systems with Applications, 2025, 305: 130912. <span style="color: red;">[CAS Tier 1]</span>
-4. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12):11865-11880. <span style="color: red;">[CAS Tier 2]</span>
+4. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12): 11865-11880. <span style="color: red;">[CAS Tier 2]</span>
 5. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
-8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026. <span style="color: red;">[CAS Tier 3]</span>
+8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
