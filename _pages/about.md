@@ -38,7 +38,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)<span style="color: red;">[CAS Tier 1]</span>.
+- *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
 - *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
@@ -254,7 +254,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🤝 Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
-1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750.<span style="color: red;">[ESI Highly Cited paper ][CAS Tier 1]</span>
+1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750. <span style="color: red;">[ESI Highly Cited paper ][CAS Tier 1]</span>
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[ESI Highly Cited paper ][ESI Hot paper][CAS Tier 1]</span>
 3. Wang M, Li M, He C. CCDM: Causality-Guided Contourlet Diffusion Models for Contour-Preserving Image Restoration in Indoor Work Sites[J]. Expert Systems with Applications, 2025, 305: 130912. <span style="color: red;">[CAS Tier 1]</span>
 4. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12): 11865-11880. <span style="color: red;">[CAS Tier 2]</span>
