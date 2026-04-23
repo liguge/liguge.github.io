@@ -2,44 +2,41 @@ name: Get Citation Data
 
 on:
   push:
-    branches:
-      - main
-      - master
-  workflow_dispatch:  # 关键：让你可以手动点击运行
+    branches: [main, master]
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          sudo apt-get install -y python3-setuptools
-          cd ./google_scholar_crawler
+          cd google_scholar_crawler
           pip install -r requirements.txt
 
       - name: Run crawler
+        timeout-minutes: 3
         run: |
-          cd ./google_scholar_crawler
+          cd google_scholar_crawler
           python main.py
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
-      - name: Push to branch
+      - name: Push results
         run: |
-          cd ./google_scholar_crawler/results
-          git config --local user.name "${GITHUB_ACTOR}"
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          cd google_scholar_crawler/results
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add *.json
-          git commit -m "Updated Citation Data $(date)"
+          git commit -m "Auto update $(date)"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git HEAD:google-scholar-stats --force
