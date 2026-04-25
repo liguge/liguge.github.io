@@ -1,62 +1,72 @@
 import requests
 import json
 import os
-import re
 
-def get_citations_from_html(user_id):
-    url = f"https://scholar.google.com/citations?user={user_id}&hl=en"
+def main():
+    # 1. 获取密钥和 ID
+    api_key = os.getenv('SERP_API_KEY')
+    scholar_id = os.getenv('GOOGLE_SCHOLAR_ID')
     
-    # 必须伪装成浏览器，否则 Google 直接拒绝
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    # 本地调试用（如果环境变量没设置，可以在这里硬编码测试）
+    # 如果你在本地运行报错，取消下面两行的注释，并填入你的 Key 和 ID
+    # if not api_key: api_key = "你的-serpapi-key"
+    # if not scholar_id: scholar_id = "1DtpMlAAAAAJ" 
+
+    if not api_key or not scholar_id:
+        print("❌ 错误：请在 GitHub Secrets 中设置 SERP_API_KEY 和 GOOGLE_SCHOLAR_ID")
+        return
+
+    print(f"🔍 正在通过 SerpAPI 获取数据...")
+
+    # 2. 发送请求
+    params = {
+        "engine": "google_scholar_author",
+        "author_id": scholar_id,
+        "api_key": api_key
     }
 
     try:
-        print(f"🔍 正在伪装成浏览器访问 Google Scholar...")
-        response = requests.get(url, headers=headers, timeout=10)
-        
-        if response.status_code != 200:
-            print(f"❌ 请求失败！状态码: {response.status_code}")
-            print("提示：Google 可能拦截了请求（反爬虫）。")
-            return None
+        response = requests.get("https://serpapi.com/search.json", params=params, timeout=10)
+        data = response.json()
 
-        html_content = response.text
-        
-        # 方法：使用正则表达式查找 "Cited by <b>数字</b>"
-        # 这里的逻辑是寻找 "Cited by" 后面紧跟的加粗数字
-        match = re.search(r'Cited by.*?<b>(\d+)</b>', html_content)
-        
-        if match:
-            citations = int(match.group(1))
-            print(f"✅ 提取成功！引用次数: {citations}")
-            return citations
+        # 3. 核心：精准提取引用数 (根据你上传的 searchm.txt 结构)
+        # 路径: cited_by -> table -> 第一个元素 -> citations -> all
+        citations = 0
+        if 'cited_by' in data and 'table' in data['cited_by']:
+            # 防御性编程：确保列表不为空
+            if len(data['cited_by']['table']) > 0:
+                all_cites = data['cited_by']['table'][0].get('citations', {}).get('all')
+                if isinstance(all_cites, int):
+                    citations = all_cites
+                else:
+                    print("⚠️ 警告：未找到 'all' 引用数字段，可能数据结构有变动。")
+            else:
+                print("⚠️ 警告：cited_by 表格为空。")
         else:
-            print("❌ 未能找到引用次数。可能是网页结构变了，或者被重定向到了验证码页面。")
-            # 调试用：打印前500个字符看看网页里到底是啥
-            # print(html_content[:500]) 
-            return None
+            print("❌ 错误：API 返回数据中缺少 'cited_by' 字段。原始错误:", data.get('error', 'Unknown'))
 
-    except Exception as e:
-        print(f"❌ 发生错误: {e}")
-        return None
+        print(f"✅ 成功提取！总引用次数: {citations}")
 
-# --- 主程序 ---
-scholar_id = os.getenv('GOOGLE_SCHOLAR_ID') # 记得在 GitHub Secrets 设置这个变量
-
-if scholar_id:
-    citations = get_citations_from_html(scholar_id)
-    
-    if citations is not None:
-        # 保存数据
+        # 4. 保存为徽章格式
         os.makedirs('results', exist_ok=True)
         badge_data = {
             "schemaVersion": 1,
-            "label": "Google Scholar Citations",
-            "message": str(citations),
-            "color": "blue"
+            "label": "Google Scholar",
+            "message": f"{citations}",
+            "color": "critical" # 颜色可以根据喜好改，比如 blue, green, 9cf 等
         }
         with open('results/gs_data_shieldsio.json', 'w', encoding='utf-8') as f:
-            json.dump(badge_data, f)
-        print("🎉 徽章更新完毕！")
-    else:
-        print("💡 建议：如果一直失败，请换用 Semantic Scholar API 方案。")
+            json.dump(badge_data, f, indent=2)
+        
+        print("🎉 任务完成！徽章已生成。")
+
+    except requests.exceptions.RequestException as e:
+        print(f"❌ 网络请求异常: {e}")
+    except json.JSONDecodeError as e:
+        print(f"❌ JSON 解析错误: {e}")
+        print("服务器返回的原始内容:", response.text[:500]) # 打印前500字符用于排查
+    except Exception as e:
+        print(f"❌ 未知错误: {e}")
+
+if __name__ == "__main__":
+    main()
