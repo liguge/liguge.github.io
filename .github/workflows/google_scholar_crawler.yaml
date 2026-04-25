@@ -1,42 +1,17 @@
-name: Get Citation Data
-
-on:
-  push:
-    branches: [main, master]
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          cd google_scholar_crawler
-          pip install -r requirements.txt
-
-      - name: Run crawler
-        timeout-minutes: 3
-        run: |
-          cd google_scholar_crawler
-          python main.py
-        env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-
-      - name: Push results
-        run: |
-          cd google_scholar_crawler/results
-          git config --global user.name "${GITHUB_ACTOR}"
-          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add *.json
-          git commit -m "Auto update $(date)"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git HEAD:google-scholar-stats --force
+    - name: Run Crawler
+      run: |
+        # 使用 $GITHUB_WORKSPACE 确保在任何情况下都能找到根目录
+        cd $GITHUB_WORKSPACE/google_scholar_crawler
+        
+        pip3 install -r requirements.txt
+        python3 main.py
+        
+        # 确保 results 文件夹存在
+        cd $GITHUB_WORKSPACE/google_scholar_crawler/results
+        
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
