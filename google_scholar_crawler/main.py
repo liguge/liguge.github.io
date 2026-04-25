@@ -1,67 +1,58 @@
-from scholarly import scholarly
+import requests
 import json
 import os
 import time
 import random
 
-# --- 配置 ---
-# 设置超时时间，防止卡死
-scholarly.set_timeout(10)
-scholarly.set_retries(2)
-
-def fetch_citations_with_retry(scholar_id, max_retries=3):
-    """
-    专门用于获取总引用次数的函数，带重试机制
-    """
-    for attempt in range(max_retries):
-        try:
-            print(f"🔍 正在尝试获取数据 (第 {attempt + 1}/{max_retries} 次)...")
-            
-            # 1. 搜索作者
-            author = scholarly.search_author_id(scholar_id)
-            
-            # 2. 填充数据 - 关键修改：只填充 'indices' (包含引用次数)，不填充 'publications'
-            # 这样能极大减少请求量和超时概率
-            scholarly.fill(author, sections=['indices'])
-            
-            # 3. 提取引用次数
-            citations = author['citedby']
-            print(f"✅ 抓取成功！总被引次数: {citations}")
-            return citations
-            
-        except Exception as e:
-            print(f"⚠️ 尝试失败: {str(e)}")
-            if attempt < max_retries - 1:
-                # 随机等待 3-8 秒，模拟真人
-                wait_time = random.uniform(3, 8)
-                print(f"⏳ 等待 {wait_time:.1f} 秒后重试...")
-                time.sleep(wait_time)
-            else:
-                raise Exception(f"经过 {max_retries} 次尝试后仍然失败。")
-
-try:
-    # 读取环境变量
-    scholar_id = os.getenv('GOOGLE_SCHOLAR_ID')
-    if not scholar_id:
-        raise Exception("❌ 错误：未设置 GOOGLE_SCHOLAR_ID 环境变量")
-
-    # 执行抓取
-    total_citations = fetch_citations_with_retry(scholar_id)
-
-    # --- 生成徽章所需的 JSON 文件 ---
-    os.makedirs('results', exist_ok=True)
-    
-    shieldio_data = {
-        "schemaVersion": 1,
-        "label": "Google Scholar Citations",
-        "message": str(total_citations)
+def get_scholar_citations(user_id):
+    url = f"https://scholar.google.com/citations?user={user_id}&hl=en"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
     }
     
+    for attempt in range(3):
+        try:
+            print(f"🔍 正在连接 Google Scholar... (尝试 {attempt + 1}/3)")
+            response = requests.get(url, headers=headers, timeout=10)
+            
+            if "Cited by" in response.text:
+                # 简单的字符串查找提取引用数（Google 页面通常包含 "Cited by <b>123</b>"）
+                import re
+                match = re.search(r'Cited by</a>.*?<b>(\d+)</b>', response.text)
+                if match:
+                    return int(match.group(1))
+                # 备用匹配模式（针对个人主页概览）
+                match = re.search(r'All citations</a>.*?<b>(\d+)</b>', response.text)
+                if match:
+                    return int(match.group(1))
+            print("⚠️ 未能解析数据，可能是反爬虫拦截。")
+            
+        except Exception as e:
+            print(f"⚠️ 连接错误: {e}")
+        
+        if attempt < 2:
+            time.sleep(random.uniform(2, 5))
+            
+    return 0 # 失败返回0
+
+try:
+    scholar_id = os.getenv('GOOGLE_SCHOLAR_ID')
+    if not scholar_id:
+        raise Exception("未设置 GOOGLE_SCHOLAR_ID")
+
+    citations = get_scholar_citations(scholar_id)
+    print(f"✅ 获取成功：{citations}")
+
+    # 保存文件
+    os.makedirs('results', exist_ok=True)
+    data = {
+        "schemaVersion": 1,
+        "label": "Google Scholar Citations",
+        "message": str(citations)
+    }
     with open('results/gs_data_shieldsio.json', 'w', encoding='utf-8') as f:
-        json.dump(shieldio_data, f, ensure_ascii=False)
-
-    print("🎉 任务完成！徽章数据已更新。")
-
+        json.dump(data, f)
+        
 except Exception as e:
-    print(f"❌ 最终出错: {str(e)}")
+    print(f"❌ 出错: {e}")
     raise
