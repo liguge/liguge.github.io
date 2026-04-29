@@ -40,7 +40,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 # 🔥 News
 
-- *2026.04:* 🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded 1,000.
+- *2026.04:* 🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
 - *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
