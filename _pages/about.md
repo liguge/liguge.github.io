@@ -41,7 +41,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
-- *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://github.com/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
+- *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://api.github.com/users/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 - *2025.05:* 🎉🎉 We have released the [Awesome-large-language-model-for-Prognostics-and-health-management](https://github.com/liguge/Awesome-large-language-model-for-Prognostics-and-health-management) that collects articles on the application of Large Language Models (LLMs) in PHM.
 - *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
@@ -264,3 +264,4 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
 8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
+9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 10.1016/j.neunet.2026.109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
