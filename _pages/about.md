@@ -31,14 +31,15 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <a href='https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en'> <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/liguge/liguge.github.io/google-scholar-stats/gs_data_shieldsio.json?rand=1&labelColor=f6f6f6&color=9cf&style=flat&label=Chao He - Google Scholar Citations" /> </a>
 
-​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge); [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [Google Scholar mirror
+​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge); <a href="https://github.com/liguge" target="_blank">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/liguge/liguge/update-stars/badge.json" /></a>[Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [Google Scholar mirror
 ](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
 
 
 
 # 🔥 News
 
-- *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://www.defineabc.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra) have officially exceeded <span style="color: red;">**1,000**</span>!
+- *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
 - *2025.12*: &nbsp;🎉🎉 [My personal GitHub account](https://api.github.com/users/liguge) has officially hit the milestone of <span style="color: red;">**1,000**</span> followers!
@@ -82,8 +83,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,8 +107,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2023},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -129,8 +130,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -153,8 +154,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       year={2024},
       publisher={Elsevier}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/jii101068.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -178,8 +179,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       publisher={Elsevier}
       doi={10.1016/j.jii.2026.101068}
       }</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 
 
@@ -204,8 +205,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
       pages={110242},
       year={2022},
       publisher={Elsevier}}</pre>
-</div>
-</div>
+      </div>
+      </div>
 
 
 - [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
