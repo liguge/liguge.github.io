@@ -64,15 +64,14 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Systems</div><img src='images/jmsy1554.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)
+    -[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
+    -[![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
+    -[![Pdf](https://img.shields.io/badge/Pdf-Free-pink.svg?logo=arXiv&logoColor=red)](https://liguge.github.io/assets/pdf/jmsy1554.pdf)
+    -<details class="paper-abstract"><summary>Abstract</summary><p>Intelligent fault diagnosis of rolling bearings using deep learning-based methods has made unprecedented progress. However, there is still little research on weight initialization and the threshold setting for noise reduction. An innovative deep triple-stream network called EWSNet is proposed, which presents a wavelet weight initialization method and a balanced dynamic adaptive threshold algorithm. Initially, an enhanced wavelet basis function is designed, in which a scale smoothing factor is defined to acquire more rational wavelet scales. Next, a plug-and-play wavelet weight initialization for deep neural networks is proposed, which utilizes physics-informed wavelet prior knowledge and showcases stronger applicability. Furthermore, a balanced dynamic adaptive threshold is established to enhance the noise-resistant robustness of the model. Finally, normalization activation mapping is devised to reveal the effectiveness of Z-score from a visual perspective rather than experimental results. The validity and reliability of EWSNet are demonstrated through four data sets under the conditions of constant and fluctuating speeds. Source code is available at: https://github.com/liguge/EWSNet.</p>
 
-
--[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
--[![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
--[![Pdf](https://img.shields.io/badge/Pdf-Free-pink.svg?logo=arXiv&logoColor=red)](https://liguge.github.io/assets/pdf/jmsy1554.pdf)
--<details class="paper-abstract"><summary>Abstract</summary><p>Intelligent fault diagnosis of rolling bearings using deep learning-based methods has made unprecedented progress. However, there is still little research on weight initialization and the threshold setting for noise reduction. An innovative deep triple-stream network called EWSNet is proposed, which presents a wavelet weight initialization method and a balanced dynamic adaptive threshold algorithm. Initially, an enhanced wavelet basis function is designed, in which a scale smoothing factor is defined to acquire more rational wavelet scales. Next, a plug-and-play wavelet weight initialization for deep neural networks is proposed, which utilizes physics-informed wavelet prior knowledge and showcases stronger applicability. Furthermore, a balanced dynamic adaptive threshold is established to enhance the noise-resistant robustness of the model. Finally, normalization activation mapping is devised to reveal the effectiveness of Z-score from a visual perspective rather than experimental results. The validity and reliability of EWSNet are demonstrated through four data sets under the conditions of constant and fluctuating speeds. Source code is available at: https://github.com/liguge/EWSNet.</p>
-
--<details class="paper-bibtex">
+    -<details class="paper-bibtex">
       <summary class="paper-btn">BibTeX</summary>
       <pre>@article{he2023physics,
       title={Physics-informed interpretable wavelet weight initialization and balanced dynamic adaptive threshold for intelligent fault diagnosis of rolling bearings},
