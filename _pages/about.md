@@ -113,7 +113,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-    - [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)
+- [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)
 
     - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
     - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
