@@ -31,8 +31,8 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <a href='https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en'> <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/liguge/liguge.github.io/google-scholar-stats/gs_data_shieldsio.json?rand=1&labelColor=f6f6f6&color=9cf&style=flat&label=Chao He - Google Scholar Citations" /> </a>
 
-​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge); <a href="https://github.com/liguge" target="_blank">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/liguge/liguge/update-stars/badge.json" /></a>[Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [Google Scholar mirror
+​                   [Github](https://github.com/liguge) [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge), <a href="https://github.com/liguge" target="_blank">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/liguge/liguge/update-stars/badge.json" /></a>; [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Chao-He-64); [Google Scholar mirror
 ](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
 
 
