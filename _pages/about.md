@@ -89,6 +89,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanical Systems and Signal Processing</div><img src='images/ymssp110846.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)
 
 
@@ -113,6 +114,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/knosys111499.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)
 
     - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
@@ -136,6 +138,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/advei102568.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)
 
     - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
@@ -160,6 +163,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Industrial Information Integration</div><img src='images/jii101068.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)
 
     - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PIFCapsule)  ![Github stars](https://img.shields.io/github/stars/liguge/PIFCapsule.svg)  
@@ -188,6 +192,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/measur110242.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)
 
 
@@ -244,7 +249,7 @@ Chao He (何超，北京交通大学).  I am currently pursuing a doctoral Degre
 - IOP Trusted Reviewer, 2024
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
 - Beijing Merit Student, 2024
-- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (Chinese Society of Instrumentation), 2024
+- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society), 2024
 - 2020 China Business Federation Science and Technology Award National Business Science and Technology Progress Award "Key Technologies and Applications for Sub Health Identification of Industrial Equipment Systems"
 
 # :school: Social Affiliations<span class="anchor" id="-social-affiliations"></span>
