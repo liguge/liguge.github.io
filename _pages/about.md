@@ -279,5 +279,5 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 10.1016/j.neunet.2026.109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
 
  💼 Curriculum Vitae<span class="anchor" id="-curriculum-vitae"></span>
-<!-- 使用 iframe 嵌入 -->
-<iframe src="https://github.com/liguge/liguge.github.io/blob/master/files/Resume.pdf" width="100%" height="600px"></iframe>
+
+<img width="2460" height="10440" alt="Resume_00" src="https://github.com/user-attachments/assets/bff308ca-f363-427e-a7d4-2a53dfaa924d" />
