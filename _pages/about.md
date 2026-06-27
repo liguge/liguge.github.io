@@ -277,3 +277,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
 8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
 9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 10.1016/j.neunet.2026.109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
+
+ 💼 Curriculum Vitae<span class="anchor" id="-curriculum-vitae"></span>
+<!-- 使用 iframe 嵌入 -->
+<iframe src="https://github.com/liguge/liguge.github.io/blob/master/files/Resume.pdf" width="100%" height="600px"></iframe>
