@@ -55,7 +55,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 - *2024.02*: &nbsp;🎉🎉 We have one paper accepted by [Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.111499) <span style="color: red;">[CAS Tier 1]</span>.
 - *2023.10*: &nbsp;🎉🎉 We have one paper accepted by [Mechanical Systems and Signal Processing](https://doi.org/10.1016/j.ymssp.2023.110846) <span style="color: red;">[CAS Tier 1]</span>.
 - *2023.08*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2023.08.014)<span style="color: red;">[CAS Tier 1]</span>.
-- *2022.06:* 🎉🎉  We have released the [Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) that summarizes journals suitable for PHM-related submissions.
+- *2022.06*: 🎉🎉  We have released the [Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) that summarizes journals suitable for PHM-related submissions.
 - *2021.10*: &nbsp;🎉🎉 We have one paper accepted by [Measurement](https://doi.org/10.1016/j.measurement.2021.110242) <span style="color: red;">[CAS Tier 2]</span>.
 
 
