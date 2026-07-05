@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  my research focuses on Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 4 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,088 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation of Beijing Jiaotong University (2026), Outstanding Graduate of Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 34 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  my research focuses on Vehicle Safety, Detection and Control Technology (interpretable fault diagnosis). I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 4 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 35 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/master/files/Resume.pdf)
 
@@ -244,8 +244,8 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 
-- Outstanding Doctoral Dissertation of Beijing Jiaotong University, 2026
-- Outstanding Graduate of Beijing Jiaotong University, 2026
+- Outstanding Doctoral Dissertation, Beijing Jiaotong University, 2026
+- Outstanding Graduate, Beijing Jiaotong University, 2026
 - IEEE Access Exceptional Reviewer, 2025
 - IOP Outstanding Reviewer Awards for Measurement Science and Technology (MST), 2025
 - Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2025
@@ -261,7 +261,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 32 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems.*
+- Reviewer for 35 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE.*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Guide editor of IEEE Reliability Association, CIS English official account
 - Editor of the special issue of Sound & Vibration: Fault Diagnosis and Prognostics in Complex Industrial Systems
