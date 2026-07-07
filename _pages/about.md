@@ -261,7 +261,8 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 35 International Journals and Academic Conferences, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, IEEE_ICAIE 2025, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, MEIE.*
+- Reviewer for 34 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE.*
+- Reviewer for 2 Academic Conferences, including *IEEE_ICAIE (2025.2026), MEIE (2026).*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Guide editor of IEEE Reliability Association, CIS English official account
 - Editor of the special issue of Sound & Vibration: Fault Diagnosis and Prognostics in Complex Industrial Systems
