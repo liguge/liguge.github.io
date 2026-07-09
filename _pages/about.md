@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 4 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 37 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 38 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/master/files/Resume.pdf)
 
@@ -26,7 +26,6 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 
 - Interpretable Fault Diagnosis
 - Anomaly Detection in Non-Ideal Industrial Scenarios
-- Gait Recognition
 
 
 # ❤️ Academic Homepage <span class='anchor' id='-academic-homepage'></span>
@@ -41,6 +40,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jii.2026.101068) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
@@ -236,7 +236,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 
 # 📖 Educations<span class="anchor" id="-educations"></span>
 
-- *2022.09 - 2026.06*, Vehicle Operation Engineering, Doctoral Degree, Beijing Jiaotong University, Beijing, China. Supervisor: **Hongmei Shi**
+- *2022.09 - 2026.06*, Vehicle Application Engineering, Doctoral Degree, Beijing Jiaotong University, Beijing, China. Supervisor: **Hongmei Shi**
 
 - *2019.09 - 2022.06*, Computer Application Technology, Master's Degree, Liaoning University, Shenyang, China. Supervisor: **Li Zhang**
 
@@ -262,7 +262,7 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 34 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, QREI.*
+- Reviewer for 36 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, QREI, OE.*
 - Reviewer for 2 Academic Conferences, including *IEEE_ICAIE (2025.2026), MEIE (2026).*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
@@ -277,5 +277,5 @@ Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/
 5. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
-8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
-9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 10.1016/j.neunet.2026.109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
+8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis[J]. Measurement Science and Technology, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
+9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 203: 109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
