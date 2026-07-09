@@ -20,7 +20,7 @@ redirect_from:
 
 Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 38 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
-Download Chinese Resume: [Link](https://github.com/liguge/liguge.github.io/blob/master/files/Resume.pdf)
+Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.pdf)
 
 # 🚀 Research Direction <span class='anchor' id='-research-direction'></span>
 
