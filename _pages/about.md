@@ -42,23 +42,26 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 - *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>.
 
-<button onclick="toggleESIImage()" style="border:none;background:none;padding:2px 6px;font-size:0.85em;cursor:pointer;">
+<!-- 按钮：完全去除边框和背景，设为行内元素 -->
+<button 
+  onclick="toggleESIImage()" 
+  style="border:none; background:none; padding:0 6px; font-size:0.85em; cursor:pointer; color:inherit; display:inline;">
   📷 View Certificate
 </button>
 
-<div style="margin-top:6px;">
-  <img
-    id="esiImage"
-    src="https://liguge.github.io/files/微信图片_20260711115932_2388_2.png"
-    alt="ESI Highly Cited Paper Certificate"
-    style="display:none; max-width:320px; height:auto; border:1px solid #ddd; border-radius:6px;"
-  />
-</div>
+<!-- 图片：默认隐藏，使用 inline-block 确保与按钮同行 -->
+<img 
+  id="esiImage" 
+  src="https://raw.githubusercontent.com/liguge/liguge.github.io/master/files/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260711115932_2388_2.png" 
+  alt="ESI Certificate" 
+  style="display:none; max-height:120px; vertical-align:middle; border:1px solid #ddd; border-radius:6px;"
+/>
 
 <script>
 function toggleESIImage() {
   var img = document.getElementById("esiImage");
-  img.style.display = img.style.display === "none" ? "block" : "none";
+  // 关键：使用 inline-block 而非 block，避免换行
+  img.style.display = (img.style.display === "none") ? "inline-block" : "none";
 }
 </script>
 
