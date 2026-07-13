@@ -49,7 +49,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   </button>
   <img 
     id="esiImage" 
-    src="/files/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260711115932_2388_2.png" 
+    src="/images/202607.tif" 
     alt="ESI Highly Cited Paper Certificate" 
     style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
   />
