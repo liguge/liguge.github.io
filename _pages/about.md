@@ -42,7 +42,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage1')"
+    onclick="toggleCertificate1('esiImage1')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
@@ -58,7 +58,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage2')"
+    onclick="toggleCertificate1('esiImage2')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
@@ -73,7 +73,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2025.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage3')"
+    onclick="toggleCertificate1('esiImage3')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
@@ -88,7 +88,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2025.03*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.measurement.2021.110242) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage4')"
+    onclick="toggleCertificate1('esiImage4')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
@@ -103,7 +103,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2024.11*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.knosys.2024.111499) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage5')"
+    onclick="toggleCertificate1('esiImage5')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
@@ -117,7 +117,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - *2024.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jmsy.2023.08.014) recognized as <span style="color: red;">**ESI Highly Cited & ESI Hot Paper**</span>.
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
-    onclick="toggleCertificate('esiImage6')"
+    onclick="toggleCertificate1('esiImage6')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
