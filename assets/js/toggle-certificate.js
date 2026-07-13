@@ -6,10 +6,3 @@ function toggleCertificate1(imgId) {
 }
 </script>
 
-<script>
-function toggleCertificate(imgId) {
-  var img = document.getElementById(imgId);
-  if (!img) return;
-  img.style.display = img.style.display === "none" ? "inline-block" : "none";
-}
-</script>
