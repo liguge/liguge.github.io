@@ -3,7 +3,7 @@
  * Usage: onclick="toggleCertificate('esiImage')"
  */
 function toggleCertificate(imgId) {
-  var img = document.getElementById(imgId);
+  const img = document.getElementById(imgId);
   if (!img) return;
-  img.style.display = (img.style.display === "none") ? "inline-block" : "none";
+  img.style.visibility = img.style.visibility === 'visible' ? 'hidden' : 'visible';
 }
