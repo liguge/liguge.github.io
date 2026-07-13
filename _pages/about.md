@@ -47,10 +47,15 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
     📷 View Certificate
   </button>
   <img 
-    id="esiImage1" 
-    src="/images/202607.png" 
-    alt="ESI Highly Cited Paper Certificate" 
-    style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
+  id="esiImage1" 
+  src="/images/202607.png" 
+  alt="ESI Highly Cited Paper Certificate" 
+  style="
+    visibility: hidden;
+    max-height: 120px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  "
   />
 </span>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
