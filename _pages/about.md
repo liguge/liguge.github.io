@@ -40,48 +40,18 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🔥 News
 
-- <span>*2026.07*</span>: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
-<span style="display: inline-flex; align-items: center; gap: 8px;">
+- *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
+<span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
     onclick="toggleCertificate('esiImage')"
-    style="
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      border: 1px solid #e5e7eb;
-      background: #f9fafb;
-      padding: 4px 10px;
-      font-size: 0.82em;
-      cursor: pointer;
-      color: #374151;
-      border-radius: 6px;
-      transition: all 0.2s ease;
-    "
-    onmouseover="this.style.background='#f3f4f6';this.style.borderColor='#d1d5db'"
-    onmouseout="this.style.background='#f9fafb';this.style.borderColor='#e5e7eb'"
-  >
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="none"
-         stroke="currentColor" stroke-width="2"
-         stroke-linecap="round" stroke-linejoin="round">
-      <rect x="3" y="3" width="18" height="18" rx="2"/>
-      <circle cx="8.5" cy="8.5" r="1.5"/>
-      <polyline points="21 15 16 10 5 21"/>
-    </svg>
-    View Certificate
+    style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
+    📷 View Certificate
   </button>
-
   <img 
     id="esiImage" 
     src="/images/202607.png" 
     alt="ESI Highly Cited Paper Certificate" 
-    style="
-      display: none;
-      max-height: 120px;
-      border-radius: 6px;
-      border: 1px solid #ddd;
-      vertical-align: middle;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    "
+    style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
   />
 </span>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
