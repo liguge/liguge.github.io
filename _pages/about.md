@@ -40,9 +40,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>.
-
-<div style="display: inline-flex; align-items: center; gap: 10px;">
+- *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. <div style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
     onclick="toggleCertificate('esiImage')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
