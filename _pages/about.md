@@ -37,35 +37,21 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 ](https://sc.panda985.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra); [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
 
 
-
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
-<span style="display: inline-flex; align-items: center; gap: 8px;">
+<span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
     onclick="toggleCertificate('esiImage1')"
-    style="
-      border: 1px solid #ddd;
-      background: #f5f5f5;
-      padding: 2px 8px;
-      font-size: 0.85em;
-      cursor: pointer;
-      border-radius: 4px;
-      color: #333;
-      white-space: nowrap;
-    ">
+    style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
   <img 
     id="esiImage1" 
     src="/images/202607.png" 
-    alt="ESI Certificate"
-    style="
-      display: none;
-      max-height: 120px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    ">
+    alt="ESI Highly Cited Paper Certificate" 
+    style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
+  />
 </span>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
