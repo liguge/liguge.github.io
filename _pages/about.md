@@ -40,31 +40,28 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jii.2026.101068) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
-<div style="display: inline-flex; align-items: center; gap: 10px;">
-  <button 
-    onclick="toggleESIImage()" 
-    style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
-  </button>
-  <img 
-    id="esiImage" 
-    src="https://raw.githubusercontent.com/liguge/liguge.github.io/master/files/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260711115932_2388_2.png" 
-    alt="ESI Highly Cited Paper Certificate" 
-    style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
+- *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>.
+
+<button onclick="toggleESIImage()" style="border:none;background:none;padding:2px 6px;font-size:0.85em;cursor:pointer;">
+  📷 View Certificate
+</button>
+
+<div style="margin-top:6px;">
+  <img
+    id="esiImage"
+    src="https://liguge.github.io/files/微信图片_20260711115932_2388_2.png"
+    alt="ESI Highly Cited Paper Certificate"
+    style="display:none; max-width:320px; height:auto; border:1px solid #ddd; border-radius:6px;"
   />
 </div>
+
 <script>
 function toggleESIImage() {
   var img = document.getElementById("esiImage");
-  // 使用 inline-block 使图片在行内显示，而非 block 换行
-  if (img.style.display === "none") {
-    img.style.display = "inline-block";
-  } else {
-    img.style.display = "none";
-  }
+  img.style.display = img.style.display === "none" ? "block" : "none";
 }
 </script>
+
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
@@ -290,7 +287,8 @@ function toggleESIImage() {
 - Reviewer for 2 Academic Conferences, including *IEEE_ICAIE (2025.2026), MEIE (2026).*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
-- Editor of the special issue of Sound & Vibration: Fault Diagnosis and Prognostics in Complex Industrial Systems
+- Editor of the special issue of Sound & Vibration: [Fault Diagnosis and Prognostics in Complex Industrial Systems](https://ojs.acad-pub.com/index.php/SV/SI/73)
+- Topic editors of Frontiers in Mechanical Engineering: [Trustworthy and Generalizable Intelligent Diagnosis of Rotating Machinery under Complex Industrial Operating Conditions](https://www.frontiersin.org/research-topics/83684/trustworthy-and-generalizable-intelligent-diagnosis-of-rotating-machinery-under-complex-industrial-operating-conditions)
 
 # 🤝 Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
