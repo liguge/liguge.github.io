@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 38 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 39 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.pdf)
 
@@ -41,6 +41,26 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jii.2026.101068) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
+<!-- ESI Highly Cited Paper 按钮与图片 -->
+<button onclick="toggleESIImage()" style="margin-left: 8px; padding: 2px 10px; font-size: 0.85em; cursor: pointer;">📷 查看证书</button>
+
+<img 
+  id="esiImage" 
+  src="https://raw.githubusercontent.com/liguge/liguge.github.io/master/files/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260711115932_2388_2.png" 
+  alt="ESI Highly Cited Paper Certificate" 
+  style="display: none; max-width: 400px; margin-top: 10px; border: 1px solid #ddd; border-radius: 6px;"
+/>
+
+<script>
+function toggleESIImage() {
+  var img = document.getElementById("esiImage");
+  if (img.style.display === "none") {
+    img.style.display = "block";
+  } else {
+    img.style.display = "none";
+  }
+}
+</script>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
@@ -262,7 +282,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 36 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, QREI, OE.*
+- Reviewer for 37 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, QREI, OE, PR.*
 - Reviewer for 2 Academic Conferences, including *IEEE_ICAIE (2025.2026), MEIE (2026).*
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
