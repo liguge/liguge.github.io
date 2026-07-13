@@ -40,22 +40,17 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
-<span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 8px;">
-  <button
+<span style="display: inline-flex; align-items: center; gap: 10px;">
+  <button 
     onclick="toggleCertificate('esiImage1')"
-    style="background: none; border: none; color: #5f6368; cursor: pointer; font-size: 0.85em; padding: 0; display: inline-flex; align-items: center; gap: 2px;">
+    style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
-  <img
-    id="esiImage1"
-    src="/images/202607.png"
-    alt="ESI Highly Cited Paper Certificate"
-    style="
-      visibility: hidden;
-      max-height: 120px;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-    "
+  <img 
+    id="esiImage1" 
+    src="/images/202607.png" 
+    alt="ESI Highly Cited Paper Certificate" 
+    style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
   />
 </span>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
