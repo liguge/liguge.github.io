@@ -39,27 +39,25 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🔥 News
 
-- <li style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-  2026.07: 🎉 We have one <a href="#" style="color: #1a73e8; text-decoration: underline;">paper</a> recognized as <span style="color: #cc0000; font-weight: bold;">ESI Highly Cited Paper</span>.
-  
-  <!-- 按钮和证书容器 -->
-  <span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 8px;">
-    <button 
-      onclick="toggleCertificate('esiImage1')" 
-      style="background: none; border: none; color: #5f6368; cursor: pointer; font-size: 0.85em; padding: 0; display: inline-flex; align-items: center; gap: 2px;">
-      📄 View Certificate
-    </button>
-    
-    <img 
-      id="esiImage1" 
-      src="/images/202607.png" 
-      alt="ESI Highly Cited Paper Certificate" 
-      style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px; vertical-align: middle;">
-  </span>
-
-  <!-- 关闭按钮 -->
-  <span style="margin-left: auto; cursor: pointer; font-size: 1.2em;" onclick="toggleCertificate('esiImage1')">😂</span>
-</li>
+- *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
+<span style="display: inline-flex; align-items: center; gap: 6px; margin-left: 8px;">
+  <button
+    onclick="toggleCertificate('esiImage1')"
+    style="background: none; border: none; color: #5f6368; cursor: pointer; font-size: 0.85em; padding: 0; display: inline-flex; align-items: center; gap: 2px;">
+    📷 View Certificate
+  </button>
+  <img
+    id="esiImage1"
+    src="/images/202607.png"
+    alt="ESI Highly Cited Paper Certificate"
+    style="
+      visibility: hidden;
+      max-height: 120px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+    "
+  />
+</span>
 - *2026.04:* &nbsp;🎉🎉 My academic citations on [Google Scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en) have officially exceeded <span style="color: red;">**1,000**</span>!
 - *2026.01*: &nbsp;🎉🎉 We have one paper accepted by [Journal of Industrial Information Integration](https://doi.org/10.1016/j.jii.2026.101068)   <span style="color: red;">[CAS Tier 1]</span>.
 - *2026.01*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.aei.2024.102568) recognized as <span style="color: red;">**ESI Hot Paper**</span>.
