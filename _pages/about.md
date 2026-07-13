@@ -41,17 +41,12 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jii.2026.101068) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
-<!-- 使用 flex 容器实现水平向右展开 -->
 <div style="display: inline-flex; align-items: center; gap: 10px;">
-  
-  <!-- 按钮：去除边框、背景色，仅保留文字样式 -->
   <button 
     onclick="toggleESIImage()" 
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
     📷 View Certificate
   </button>
-
-  <!-- 图片：默认隐藏，显示时与按钮在同一行右侧 -->
   <img 
     id="esiImage" 
     src="https://raw.githubusercontent.com/liguge/liguge.github.io/master/files/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260711115932_2388_2.png" 
@@ -59,7 +54,6 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
     style="display: none; max-height: 120px; border: 1px solid #ddd; border-radius: 6px;"
   />
 </div>
-
 <script>
 function toggleESIImage() {
   var img = document.getElementById("esiImage");
