@@ -41,8 +41,8 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 We have one [paper](https://doi.org/10.1016/j.jii.2026.101068) recognized as <span style="color: red;">**ESI Highly Cited Paper**</span>.
-<!-- ESI Highly Cited Paper 按钮与图片 -->
-<button onclick="toggleESIImage()" style="margin-left: 8px; padding: 2px 10px; font-size: 0.85em; cursor: pointer;">📷 查看证书</button>
+
+<button onclick="toggleESIImage()" style="margin-left: 8px; padding: 2px 10px; font-size: 0.85em; cursor: pointer;">📷 View Certificate</button>
 
 <img 
   id="esiImage" 
@@ -50,7 +50,6 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   alt="ESI Highly Cited Paper Certificate" 
   style="display: none; max-width: 400px; margin-top: 10px; border: 1px solid #ddd; border-radius: 6px;"
 />
-
 <script>
 function toggleESIImage() {
   var img = document.getElementById("esiImage");
