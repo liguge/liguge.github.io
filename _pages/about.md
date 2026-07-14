@@ -44,7 +44,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage1')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage1" 
@@ -60,7 +60,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage2')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage2" 
@@ -75,7 +75,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage3')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage3" 
@@ -90,7 +90,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage4')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage4" 
@@ -105,7 +105,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage5')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage5" 
@@ -119,7 +119,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <button 
     onclick="toggleCertificate1('esiImage6')"
     style="border: none; background: none; padding: 2px 6px; font-size: 0.85em; cursor: pointer; color: inherit; white-space: nowrap;">
-    📷 View Certificate
+    📷
   </button>
   <img 
     id="esiImage6" 
