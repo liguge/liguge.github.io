@@ -319,6 +319,44 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 - *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
 
+{% include timeline.html body="
+<div class='timeline'>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2023.1</div>
+    <div class='timeline-content'>
+      中国核学会第十五届核技术、核应用、核经济论坛<br>
+      核动力运行与控制分论坛主席
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2024.1</div>
+    <div class='timeline-content'>
+      第十一届和谐核电国际研讨会<br>
+      运行与控制分论坛主席
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2025.1</div>
+    <div class='timeline-content'>
+      中国核学会第四届博士生研讨会<br>
+      运行与控制分论坛主席
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2023.1 – 2024.1</div>
+    <div class='timeline-content'>
+      哈尔滨工程大学青岛基地<br>
+      核动力智能运维研究中心副主任
+    </div>
+  </div>
+
+</div>
+"%}
+
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 
 - Outstanding Doctoral Dissertation, Beijing Jiaotong University, 2026
@@ -357,4 +395,4 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 7. Luo H, Zhang L, **He C**. Deep Diagnosis Methods for Industrial Equipment Systems[M]. Liaoning University Press, 2022.
 8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis[J]. Measurement Science and Technology, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
 9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 203: 109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
-10. Liu B, Wang Y, Yan C F, He C, et al. PIDUQ: an interpretable physics-informed distribution uncertainty quantification network for unsupervised cross-domain fault diagnosis of rolling bearings[J]. Mechanical Systems and Signal Processing, 2026, 258: 114695. <span style="color: red;">[CAS Tier 1]</span>
+10. Liu B, Wang Y, Yan C F, **He C**, et al. PIDUQ: an interpretable physics-informed distribution uncertainty quantification network for unsupervised cross-domain fault diagnosis of rolling bearings[J]. Mechanical Systems and Signal Processing, 2026, 258: 114695. <span style="color: red;">[CAS Tier 1]</span>
