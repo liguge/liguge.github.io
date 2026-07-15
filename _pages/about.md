@@ -416,9 +416,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2020</div>
     <div class='timeline-content'>
-      National Business Science and Technology Progress Award<br>
-      <strong>Key Technologies and Applications for Sub-Health Identification of Industrial Equipment Systems</strong><br>
-      China Business Federation Science and Technology Award
+      2020 China Business Federation Science and Technology Award National Business Science and Technology Progress Award “Key Technologies and Applications for Sub Health Identification of Industrial Equipment Systems”
     </div>
   </div>
 
