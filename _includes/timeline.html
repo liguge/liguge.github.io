@@ -1,11 +1,10 @@
 <style>
-/* ===== 时间轴：和 Education 的 E 对齐 ===== */
-
-/* 外层容器：和主题正文同宽、同缩进 */
+/* 时间轴容器：和 Academic Pages 正文完全一致 */
 .timeline-wrapper {
-  max-width: 720px;      /* Academic Pages 正文常见宽度 */
-  margin: 0 auto;        /* ✅ 关键：和 Education 居中对齐 */
-  padding-left: 4px;       /* 不额外缩进 */
+  max-width: 720px;      /* 和正文一致 */
+  margin: 0 auto;        /* 居中 */
+  padding-left: 0;       /* 不要额外缩进 */
+  position: relative;
 }
 
 /* 时间轴本体 */
@@ -14,11 +13,11 @@
   padding: 10px 0;
 }
 
-/* 中间竖线：相对容器居中，而不是 left:30px */
+/* 中间竖线：从容器最左侧开始画 */
 .timeline::before {
   content: "";
   position: absolute;
-  left: 24px;            /* ✅ 相对时间轴容器定位 */
+  left: 0;               /* ⭐ 关键：从容器最左开始 */
   top: 0;
   bottom: 0;
   width: 2px;
@@ -29,14 +28,14 @@
 .timeline-item {
   position: relative;
   margin-bottom: 28px;
-  padding-left: 56px;    /* 24px(线) + 12px(圆点半径) + 20px(间距) */
+  padding-left: 32px;    /* ⭐ 关键：给圆点留空间，但不跳太远 */
 }
 
-/* 蓝色圆点 */
+/* 蓝色圆点：紧贴竖线右侧 */
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: 18px;            /* 和竖线中心对齐 */
+  left: -6px;            /* ⭐ 关键：让圆点覆盖在竖线上 */
   top: 6px;
   width: 12px;
   height: 12px;
