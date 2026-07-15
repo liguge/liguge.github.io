@@ -313,47 +313,29 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 📖 Educations<span class="anchor" id="-educations"></span>
 
-- *2022.09 - 2026.06*, Vehicle Application Engineering, Doctoral Degree, Beijing Jiaotong University, Beijing, China. Supervisor: **Hongmei Shi**
-
-- *2019.09 - 2022.06*, Computer Application Technology, Master's Degree, Liaoning University, Shenyang, China. Supervisor: **Li Zhang**
-
-- *2015.09 - 2019.06*, Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
-
 {% include timeline.html body="
 <div class='timeline'>
 
   <div class='timeline-item'>
-    <div class='timeline-time'>2023.1</div>
+    <div class='timeline-time'>2022.09 - 2026.06</div>
     <div class='timeline-content'>
-      中国核学会第十五届核技术、核应用、核经济论坛<br>
-      核动力运行与控制分论坛主席
+      Vehicle Application Engineering, Doctoral Degree, Beijing Jiaotong University, Beijing, China. Supervisor: <strong>Hongmei Shi</strong>
     </div>
   </div>
 
   <div class='timeline-item'>
-    <div class='timeline-time'>2024.1</div>
+    <div class='timeline-time'>2019.09 - 2022.06</div>
     <div class='timeline-content'>
-      第十一届和谐核电国际研讨会<br>
-      运行与控制分论坛主席
+      Computer Application Technology, Master's Degree, Liaoning University, Shenyang, China. Supervisor: <strong>Li Zhang</strong>
     </div>
   </div>
 
   <div class='timeline-item'>
-    <div class='timeline-time'>2025.1</div>
+    <div class='timeline-time'>2015.09 - 2019.06</div>
     <div class='timeline-content'>
-      中国核学会第四届博士生研讨会<br>
-      运行与控制分论坛主席
+      Computer Science and Technology, Bachelor's Degree, Shandong University of Finance and Economics, Jinan, China.
     </div>
   </div>
-
-  <div class='timeline-item'>
-    <div class='timeline-time'>2023.1 – 2024.1</div>
-    <div class='timeline-content'>
-      哈尔滨工程大学青岛基地<br>
-      核动力智能运维研究中心副主任
-    </div>
-  </div>
-
 </div>
 "%}
 
