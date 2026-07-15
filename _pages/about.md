@@ -381,8 +381,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2025</div>
     <div class='timeline-content'>
-      Excellence Award, National Big Data and Computing Intelligence Challenge<br>
-      <strong>Task:</strong> Equipment Fault Prediction Based on Data Mining
+      Awarded the Excellence Award for successfully tackling the “Equipment Fault Prediction Based on Data Mining” task at the 2025 National Big Data and Computing Intelligence Challenge, 2025
     </div>
   </div>
 
@@ -410,8 +409,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2024</div>
     <div class='timeline-content'>
-      Doctoral Program of the Young Talent Support Project<br>
-      China Association for Science and Technology (China Instrument and Control Society)
+      The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society)
     </div>
   </div>
 
