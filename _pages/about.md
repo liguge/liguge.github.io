@@ -315,7 +315,6 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 {% include timeline.html body="
 <div class='timeline'>
-
   <div class='timeline-item'>
     <div class='timeline-time'>2022.09 - 2026.06</div>
     <div class='timeline-content'>
@@ -341,17 +340,92 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🎖 Honors and Awards<span class="anchor" id="-honors-and-awards"></span>
 
-- Outstanding Doctoral Dissertation, Beijing Jiaotong University, 2026
-- Outstanding Graduate, Beijing Jiaotong University, 2026
-- IEEE Access Exceptional Reviewer, 2025
-- IOP Outstanding Reviewer Awards for Measurement Science and Technology (MST), 2025
-- Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2025
-- Awarded the Excellence Award for successfully tackling the "Equipment Fault Prediction Based on Data Mining" task at the 2025 National Big Data and Computing Intelligence Challenge, 2025
-- IOP Trusted Reviewer, 2024
-- Outstanding Reviewer, Journal of IEEE Transactions on Instrumentation and Measurement (IEEE TIM), 2024
-- Beijing Merit Student, 2024
-- The Doctoral Program of the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society), 2024
-- 2020 China Business Federation Science and Technology Award National Business Science and Technology Progress Award "Key Technologies and Applications for Sub Health Identification of Industrial Equipment Systems"
+{% include timeline.html body="
+<div class='timeline'>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2026</div>
+    <div class='timeline-content'>
+      Outstanding Doctoral Dissertation, Beijing Jiaotong University
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2026</div>
+    <div class='timeline-content'>
+      Outstanding Graduate, Beijing Jiaotong University
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2025</div>
+    <div class='timeline-content'>
+      IEEE Access Exceptional Reviewer
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2025</div>
+    <div class='timeline-content'>
+      IOP Outstanding Reviewer Award, <em>Measurement Science and Technology (MST)</em>
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2025</div>
+    <div class='timeline-content'>
+      Outstanding Reviewer, <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2025</div>
+    <div class='timeline-content'>
+      Excellence Award, National Big Data and Computing Intelligence Challenge<br>
+      <strong>Task:</strong> Equipment Fault Prediction Based on Data Mining
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2024</div>
+    <div class='timeline-content'>
+      IOP Trusted Reviewer
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2024</div>
+    <div class='timeline-content'>
+      Outstanding Reviewer, <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2024</div>
+    <div class='timeline-content'>
+      Beijing Merit Student
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2024</div>
+    <div class='timeline-content'>
+      Doctoral Program of the Young Talent Support Project<br>
+      China Association for Science and Technology (China Instrument and Control Society)
+    </div>
+  </div>
+
+  <div class='timeline-item'>
+    <div class='timeline-time'>2020</div>
+    <div class='timeline-content'>
+      National Business Science and Technology Progress Award<br>
+      <strong>Key Technologies and Applications for Sub-Health Identification of Industrial Equipment Systems</strong><br>
+      China Business Federation Science and Technology Award
+    </div>
+  </div>
+
+</div>"
+%}
 
 # :school: Social Affiliations<span class="anchor" id="-social-affiliations"></span>
 
