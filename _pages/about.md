@@ -445,11 +445,11 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <em>NTE</em>, <em>SR</em>, <em>RIE</em>, <em>TR</em>,
   <em>Cyber-Physical Systems</em>, <em>TCE</em>, <em>QREI</em>,
   <em>OE</em>, <em>PR</em>, <em>SPL</em>, <em>Processes</em>
-</div>
+  </div>
 - Reviewer for 2 Academic Conferences:
- <div class="journal-list">
+  <div class="journal-list">
   <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>
-</div>
+  </div>
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
 - Editor of the special issue of Sound & Vibration: [Fault Diagnosis and Prognostics in Complex Industrial Systems](https://ojs.acad-pub.com/index.php/SV/SI/73)
