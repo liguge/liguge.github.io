@@ -1,11 +1,20 @@
 <style>
 /* 时间轴容器：和 Academic Pages 正文完全一致 */
 .timeline-wrapper {
-  max-width: 720px;      /* 和正文一致 */
-  margin: 0 auto;        /* 居中 */
-  padding-left: 0;       /* 不要额外缩进 */
-  position: relative;
-  transform: translateX(-80px);
+  max-width: 720px;
+  margin: 0 auto;
+  padding-left: 0;
+
+  /* ✅ PC / 平板：相对自适应左移 */
+  transform: translateX(calc(-5% - 12px));
+}
+
+/* ✅ 手机端：取消左移，防止溢出 */
+@media (max-width: 768px) {
+  .timeline-wrapper {
+    transform: none;
+    padding-left: 12px;
+  }
 }
 
 /* 时间轴本体 */
