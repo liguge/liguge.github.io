@@ -346,14 +346,16 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2026</div>
     <div class='timeline-content'>
-      Outstanding Doctoral Dissertation, Beijing Jiaotong University
+      Outstanding Doctoral Dissertation<br>
+      Beijing Jiaotong University
     </div>
   </div>
 
   <div class='timeline-item'>
     <div class='timeline-time'>2026</div>
     <div class='timeline-content'>
-      Outstanding Graduate, Beijing Jiaotong University
+      Outstanding Graduate<br>
+      Beijing Jiaotong University
     </div>
   </div>
 
@@ -367,21 +369,23 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2025</div>
     <div class='timeline-content'>
-      IOP Outstanding Reviewer Award, <em>Measurement Science and Technology (MST)</em>
+      IOP Outstanding Reviewer Award<br>
+      <em>Measurement Science and Technology (MST)</em>
     </div>
   </div>
 
   <div class='timeline-item'>
     <div class='timeline-time'>2025</div>
     <div class='timeline-content'>
-      Outstanding Reviewer, <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
+      Outstanding Reviewer<br>
+      <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
     </div>
   </div>
 
   <div class='timeline-item'>
     <div class='timeline-time'>2025</div>
     <div class='timeline-content'>
-      Awarded the Excellence Award for successfully tackling the “Equipment Fault Prediction Based on Data Mining” task at the 2025 National Big Data and Computing Intelligence Challenge, 2025
+      Awarded the Excellence Award for successfully tackling the “Equipment Fault Prediction Based on Data Mining” task at the 2025 National Big Data and Computing Intelligence Challenge
     </div>
   </div>
 
@@ -395,7 +399,8 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2024</div>
     <div class='timeline-content'>
-      Outstanding Reviewer, <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
+      Outstanding Reviewer<br>
+      <em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>
     </div>
   </div>
 
@@ -416,7 +421,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2020</div>
     <div class='timeline-content'>
-      2020 China Business Federation Science and Technology Award National Business Science and Technology Progress Award “Key Technologies and Applications for Sub Health Identification of Industrial Equipment Systems”
+      2020 China Business Federation Science and Technology Award-- National Business Science and Technology Progress Award
     </div>
   </div>
 
@@ -429,8 +434,22 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 39 International Journals, including *ACM TAAS, TITS, TSMCA, MSSP, ADVEI, KBS, ESWA, TII, TIM, EAAI, ASOC, RESS, Neurocomputing, npj Digital Medicine, JVC, ERE, SHM, IEEE ACCESS, IEEE IOJT, IEEE Sensors J., TETCI, MST, JMSY, JNE, MLWA, NTE, SR, RIE, TR, and Cyber-Physical Systems, TCE, QREI, OE, PR, SPL, Processes.*
-- Reviewer for 2 Academic Conferences, including *IEEE_ICAIE (2025.2026), MEIE (2026).*
+- Reviewer for 39 International Journals:
+  <div class="journal-list">
+  <em>ACM TAAS</em>, <em>TITS</em>, <em>TSMCA</em>, <em>MSSP</em>,
+  <em>ADVEI</em>, <em>KBS</em>, <em>ESWA</em>, <em>TII</em>, <em>TIM</em>,
+  <em>EAAI</em>, <em>ASOC</em>, <em>RESS</em>, <em>Neurocomputing</em>,
+  <em>npj Digital Medicine</em>, <em>JVC</em>, <em>ERE</em>, <em>SHM</em>,
+  <em>IEEE ACCESS</em>, <em>IEEE IOJT</em>, <em>IEEE Sensors J.</em>,
+  <em>TETCI</em>, <em>MST</em>, <em>JMSY</em>, <em>JNE</em>, <em>MLWA</em>,
+  <em>NTE</em>, <em>SR</em>, <em>RIE</em>, <em>TR</em>,
+  <em>Cyber-Physical Systems</em>, <em>TCE</em>, <em>QREI</em>,
+  <em>OE</em>, <em>PR</em>, <em>SPL</em>, <em>Processes</em>
+</div>
+- Reviewer for 2 Academic Conferences:
+ <div class="journal-list">
+  <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>
+</div>
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
 - Editor of the special issue of Sound & Vibration: [Fault Diagnosis and Prognostics in Complex Industrial Systems](https://ojs.acad-pub.com/index.php/SV/SI/73)
