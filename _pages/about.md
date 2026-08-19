@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 45 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 49 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.pdf)
 
@@ -434,7 +434,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 43 International Journals:
+- Reviewer for 47 International Journals:
   <div class="journal-list">
   <em>ACM TAAS</em>, <em>TITS</em>, <em>TSMCA</em>, <em>MSSP</em>,
   <em>ADVEI</em>, <em>KBS</em>, <em>ESWA</em>, <em>TII</em>, <em>TIM</em>,
@@ -445,7 +445,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <em>NTE</em>, <em>SR</em>, <em>RIE</em>, <em>TR</em>, <em>THC</em>,
   <em>Cyber-Physical Systems</em>, <em>TCE</em>, <em>QREI</em>,
   <em>OE</em>, <em>PR</em>, <em>SPL</em>, <em>Processes</em>, <em>J. Imaging</em>,
-  <em>Entropy</em>, <em>Electronics</em>
+  <em>Entropy</em>, <em>Electronics</em>, <em>Sensors</em>, <em>MAC</em>, <em>PLOS one</em>, <em>DIOT</em>
   </div>
 - Reviewer for 2 Academic Conferences:
   <div class="journal-list">
@@ -460,7 +460,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 1. Liao J X, **He C**, Li J, et al. Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions[J].Mechanical Systems and Signal Processing, 2025, 222: 111750. <span style="color: red;">[ESI Highly Cited paper ][CAS Tier 1]</span>
 2. Liu B, Yan C, **He C**, et al. An interpretable physics-informed subdomain moment-enhanced adaptation network for unsupervised transfer fault diagnosis of rolling bearing[J]. Advanced Engineering Informatics, 2025, 67: 103491. <span style="color: red;">[ESI Highly Cited paper ][ESI Hot paper][CAS Tier 1]</span>
-3. Wang M, Li M, He C. CCDM: Causality-Guided Contourlet Diffusion Models for Contour-Preserving Image Restoration in Indoor Work Sites[J]. Expert Systems with Applications, 2025, 305: 130912. <span style="color: red;">[CAS Tier 1]</span>
+3. Wang M, Li M, **He C**. CCDM: Causality-Guided Contourlet Diffusion Models for Contour-Preserving Image Restoration in Indoor Work Sites[J]. Expert Systems with Applications, 2025, 305: 130912. <span style="color: red;">[CAS Tier 1]</span>
 4. Chen B, Liu T, **He C**, et al. Fault diagnosis for limited annotation signals and strong noise based on interpretable attention mechanism[J]. IEEE Sensors Journal, 2022, 22(12): 11865-11880. <span style="color: red;">[CAS Tier 2]</span>
 5. Wei H, **He C**, Liu S, et al. Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis[J]. Structural Control and Health Monitoring, 2025.  <span style="color: red;">[CAS Tier 2]</span>
 6. Li R, Shi H, **He C**, et al. Adaptive multi-scale Laplace wavelet weighted fusion framework for heavy haul freight train fault diagnosis under limited sample with high-noise[J]. Nondestructive Testing and Evaluation, 2025.  <span style="color: red;">[CAS Tier 2]</span>
@@ -468,3 +468,4 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 8. Wang Y, Li Y, **He C**, et al. Robust subdomain distribution alignment with class-wise weight selection mechanism for mechanical fault transfer diagnosis[J]. Measurement Science and Technology, 2026, 37(4): 046208. <span style="color: red;">[CAS Tier 3]</span>
 9. Liao J X, **He C**, Li J, et al. Heterogeneous Neural Blind Deconvolution: A Signal ProcessingEmpowered Foundation Feature Extractor for Bearing Fault Diagnosis[J]. Neural Networks, 2026, 203: 109143. <span style="color: red;">[CAS Tier 2], [CCF-B]</span>
 10. Liu B, Wang Y, Yan C F, **He C**, et al. PIDUQ: an interpretable physics-informed distribution uncertainty quantification network for unsupervised cross-domain fault diagnosis of rolling bearings[J]. Mechanical Systems and Signal Processing, 2026, 258: 114695. <span style="color: red;">[CAS Tier 1]</span>
+11. Yu Y, Qian Q, Wu F, , **He C**, et al. A novel power converters open-circuit fault diagnosis method with adaptive complex causal transformer[J]. IEEE Transactions on Transportation Electrification, 2026.<span style="color: red;">[CAS Tier 1]</span>
