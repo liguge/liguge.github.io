@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 51 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  my research focuses on Safety, Detection and Control Technology. I have publisId 23 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,100 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 53 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.pdf)
 
@@ -448,14 +448,17 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <em>Entropy</em>, <em>Electronics</em>, <em>Sensors</em>, <em>MAC</em>, <em>PLOS one</em>, <em>DIOT</em>,
   <em>ALGAL</em>，<em>Machines</em>
   </div>
-- Reviewer for 2 Academic Conferences:
+- Reviewer for 4 Academic Conferences:
   <div class="journal-list">
-  <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>
+  <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>, <em>CAC (2026)</em>, <em>ICSMD 2026</em>
   </div>
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
 - Editor of the special issue of Sound & Vibration: [Fault Diagnosis and Prognostics in Complex Industrial Systems](https://ojs.acad-pub.com/index.php/SV/SI/73)
 - Topic editors of Frontiers in Mechanical Engineering: [Trustworthy and Generalizable Intelligent Diagnosis of Rotating Machinery under Complex Industrial Operating Conditions](https://www.frontiersin.org/research-topics/83684/trustworthy-and-generalizable-intelligent-diagnosis-of-rotating-machinery-under-complex-industrial-operating-conditions)
+- The 5th International Conference on Advanced Sensing and Intelligent Manufacturing (ASIM 2026): [Interpretable and Trustworthy Fault Diagnosis Technology for Intelligent Manufacturing Equipment](https://mp.weixin.qq.com/s/393Cyr6I6FARdTkJ212UKA)
+
+
 
 # 🤝 Co-authored Articles<span class="anchor" id="-co-authored-articles"></span>
 
