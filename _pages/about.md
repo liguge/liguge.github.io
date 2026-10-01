@@ -311,7 +311,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 
 
-# 👔 Professional Experience​<span class="anchor" id="-professional-experience"></span>
+# 👔 Professional Experience​<span class="anchor" id="-professional_experience"></span>
 
 {% include timeline.html body="
 <div class='timeline'>
