@@ -313,16 +313,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 👔 Professional Experience​<span class="anchor" id="-professional_experience"></span>
 
-{% include timeline.html body="
-<div class='timeline'>
-  <div class='timeline-item'>
-    <div class='timeline-time'>2026.10 - Present​</div>
-    <div class='timeline-content'>
-      College of Automation, Shenyang Aerospace University, Shenyang, Liaoning.
-    </div>
-  </div>
-</div>
-"%}
+
 
 # 📖 Educations<span class="anchor" id="-educations"></span>
 
