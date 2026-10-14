@@ -39,7 +39,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 
 # 🔥 News
 
-- *2026.09:* &nbsp;🎉🎉 第十三届中国研究生能源装备创新设计大赛全国三等奖（5/5）</span>!
+- *2026.09:* &nbsp;🎉🎉 第十三届中国研究生能源装备创新设计大赛全国三等奖（5/5）。
 - *2026.07*: &nbsp;🎉🎉 We have one <a href="https://doi.org/10.1016/j.jii.2026.101068">paper</a> recognized as <span style="color:red;"><strong>ESI Highly Cited Paper</strong></span>. 
 <span style="display: inline-flex; align-items: center; gap: 10px;">
   <button 
