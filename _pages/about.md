@@ -319,7 +319,7 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
   <div class='timeline-item'>
     <div class='timeline-time'>2026.10 - Present​</div>
     <div class='timeline-content'>
-      College of Automation, Shenyang Aerospace University, Shenyang, Liaoning.
+      School of Automation, Shenyang Aerospace University, Shenyang, Liaoning.
     </div>
   </div>
 </div>
