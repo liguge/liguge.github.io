@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chao He (何超),  I am currently a Full-time Faculty Member in the [School of Automation](https://accc.sau.edu.cn/) at [Shenyang Aerospace University](https://www.sau.edu.cn/). My research focuses on Safety, Detection and Control Technology. I have publisId 28 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,300 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 53 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
+Chao He (何超),  I am currently a Full-time Faculty Member in the [School of Automation](https://accc.sau.edu.cn/) at [Shenyang Aerospace University](https://www.sau.edu.cn/). My research focuses on Safety, Detection and Control Technology. I have publisId 28 academic papers, including 5 first-author papers in CAS Top Tier 1 journals, 5 ESI Highly Cited Papers, and 3 ESI Hot Papers, with more than 1,300 citations on Google Scholar. I was awarded the National Scholarship for Doctoral Students (2024, 2025), Beijing Merit Student (2024), Outstanding Doctoral Dissertation, Beijing Jiaotong University (2026), Outstanding Graduate, Beijing Jiaotong University (2026), and selected into the First Batch of the Doctoral Program under the Young Talent Support Project of the China Association for Science and Technology (China Instrument and Control Society) (2024). I also received the Second Prize of National Commercial Science and Technology Progress Award (2020). I serves as a reviewer for 56 international journals and conferences, and is an Outstanding Reviewer for IEEE TIM, IEEE Access, and Measurement Science and Technology. I presides over one doctoral research project (the Fundamental Research Funds for the Central Universities) and participates in four research projects. Meanwhile, I participate in the operation of a WeChat official account named Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems ([《先进机电系统测控与运维前沿》](https://gitee.com/huantainn/pydct/blob/master/qrcode_for_gh_3012974a0e76_258.jpg)). 
 
 Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.pdf)
 
@@ -448,23 +448,24 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 - Student Member of China Instrument and Control Society
 - Student Member of the China Computer Federation
 - Technical Committee Member, IEEE_ICAIE 2025
-- Reviewer for 49 International Journals:
+- Reviewer for 52 International Journals:
   <div class="journal-list">
-  <em>ACM TAAS</em>, <em>TITS</em>, <em>TSMCA</em>, <em>MSSP</em>,
-  <em>ADVEI</em>, <em>KBS</em>, <em>ESWA</em>, <em>TII</em>, <em>TIM</em>,
-  <em>EAAI</em>, <em>ASOC</em>, <em>RESS</em>, <em>Neurocomputing</em>,
-  <em>npj Digital Medicine</em>, <em>JVC</em>, <em>ERE</em>, <em>SHM</em>,
-  <em>IEEE ACCESS</em>, <em>IEEE IOJT</em>, <em>IEEE Sensors J.</em>,
-  <em>TETCI</em>, <em>MST</em>, <em>JMSY</em>, <em>JNE</em>, <em>MLWA</em>,
-  <em>NTE</em>, <em>SR</em>, <em>RIE</em>, <em>TR</em>, <em>THC</em>,
-  <em>Cyber-Physical Systems</em>, <em>TCE</em>, <em>QREI</em>,
-  <em>OE</em>, <em>PR</em>, <em>SPL</em>, <em>Processes</em>, <em>J. Imaging</em>,
-  <em>Entropy</em>, <em>Electronics</em>, <em>Sensors</em>, <em>MAC</em>, <em>PLOS one</em>, <em>DIOT</em>,
-  <em>ALGAL</em>, <em>Machines</em>, <em>IJAV</em>
+  <em>ACM TAAS</em>, <em>TITS</em>, <em>TSMCA</em>, <em>MSSP</em>, <em>ADVEI</em>,
+  <em>KBS</em>, <em>ESWA</em>, <em>TII</em>, <em>TIM</em>, <em>EAAI</em>,
+  <em>ASOC</em>, <em>RESS</em>, <em>Neurocomputing</em>, <em>npj Digital Medicine</em>, <em>Technologies</em>,
+  <em>JVC</em>, <em>ERE</em>, <em>SHM</em>, <em>IEEE ACCESS</em>, <em>IEEE IOJT</em>,
+  <em>IEEE Sensors J.</em>, <em>TETCI</em>, <em>MST</em>, <em>JMSY</em>, <em>JNE</em>,
+  <em>MLWA</em>, <em>NTE</em>, <em>SR</em>, <em>RIE</em>, <em>TR</em>,
+  <em>THC</em>, <em>Cyber-Physical Systems</em>, <em>TCE</em>, <em>QREI</em>, <em>OE</em>,
+  <em>PR</em>, <em>SPL</em>, <em>Processes</em>, <em>J. Imaging</em>, <em>Entropy</em>,
+  <em>Electronics</em>, <em>Sensors</em>, <em>MAC</em>, <em>PLOS one</em>, <em>DIOT</em>,
+  <em>ALGAL</em>, <em>Machines</em>, <em>IJAV</em>, <em>JoVE</em>, <em>IFS</em>,
+  <em>FIM</em>, <em>CMC</em>
+
   </div>
-- Reviewer for 4 Academic Conferences:
+- Reviewer for 5 Academic Conferences:
   <div class="journal-list">
-  <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>, <em>CAC (2026)</em>, <em>ICSMD 2026</em>
+  <em>IEEE_ICAIE (2025.2026)</em>, <em>MEIE (2026)</em>, <em>CAC (2026)</em>, <em>ICSMD 2026</em>, <em>ASIM 2026</em>
   </div>
 - Participate in the operation of a fault diagnosis-focused WeChat Official Account titled *Frontiers of Measurement, Control and Operation & Maintenance for Advanced Mechatronic Systems*
 - Social Media Assistant of IEEE Reliability Association, CIS English official account
@@ -488,3 +489,4 @@ Download Chinese Resume: [Link](https://liguge.github.io/assets/pdf/ChaoHE_CV_C.
 10. Liu B, Wang Y, Yan C F, **He C**, et al. PIDUQ: an interpretable physics-informed distribution uncertainty quantification network for unsupervised cross-domain fault diagnosis of rolling bearings[J]. Mechanical Systems and Signal Processing, 2026, 258: 114695. <span style="color: red;">[CAS Tier 1]</span>
 11. Yu Y, Qian Q, Wu F, **He C**, et al. A novel power converters open-circuit fault diagnosis method with adaptive complex causal transformer[J]. IEEE Transactions on Transportation Electrification, 2026. <span style="color: red;">[CAS Tier 1]</span>
 12. 史红梅; 余祖俊; 李建钹; 朱力强; **何超**; 郭保青; 许西宁; 邱霁. 列车牵引电机轴承状态检测跨设备迁移诊断方法及系统:202410105466. 1[P]. 2026-06-23.
+13. Li, R, Shi, H, **He C**, et al. (2026). A Discriminative Band-Feature Enhanced Empirical Wavelet Network for IIoT-Enabled Single-Domain Generalization Anomaly Detection of Heavy-Haul Freight Train Wheelsets. IEEE Internet of Things Journal, 2026. <span style="color: red;">[CAS Tier 2]</span>
